@@ -26,6 +26,3 @@ def get_data():
         return("User not found!")
 
     return "404"
-
-if __name__ == '__main__':
-    app.run(debug=True)
