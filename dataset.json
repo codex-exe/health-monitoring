@@ -1,0 +1,8187 @@
+{
+  "user1": [
+    {
+      "time": "0",
+      "Gender": "M",
+      "Weight": 65,
+      "Height": 169,
+      "Age": 29
+    },
+    {
+      "time": "1",
+      "In Bed Date": 2,
+      "In Bed Time": "0:46",
+      "Out Bed Date": 2,
+      "Out Bed Time": "3:31",
+      "Onset Date": 2,
+      "Onset Time": "0:46",
+      "Latency": 0,
+      "Efficiency": 87.27,
+      "Total Minutes in Bed": 165,
+      "TST": 144,
+      "WASO": 21,
+      "Number of Awakenings": 9,
+      "Average Awakening Length": 2.33,
+      "Movement Index": 9.091,
+      "Fragmentation Index": 10,
+      "Sleep Fragmentation Index": 19.091
+    },
+    {
+      "time": "2",
+      "MEQ": 47,
+      "STAI1": 41,
+      "STAI2": 43,
+      "Pittsburgh": 5,
+      "Daily_stress": 23,
+      "BISBAS_bis": 22,
+      "BISBAS_reward": 21,
+      "BISBAS_drive": 14,
+      "BISBAS_fun": 14,
+      "panas_pos_10": 21,
+      "panas_pos_14": 17,
+      "panas_pos_18": 12,
+      "panas_pos_22": 18,
+      "panas_pos_9+1": 17,
+      "panas_neg_10": 11,
+      "panas_neg_14": 13,
+      "panas_neg_18": 13,
+      "panas_neg_22": 10,
+      "panas_neg_9+1": 10
+    },
+    {
+      "time": "10:10",
+      "Activity": 2,
+      "Steps": 4,
+      "HR": "133.8181818181818",
+      "Inclinometer": 1
+    },
+    {
+      "time": "10:11",
+      "Activity": 2,
+      "Steps": 10,
+      "HR": "96.35714285714286",
+      "Inclinometer": 1
+    },
+    {
+      "time": "10:12",
+      "Activity": 2,
+      "Steps": 24,
+      "HR": "110.24444444444444",
+      "Inclinometer": 1
+    },
+    {
+      "time": "10:13",
+      "Activity": 2,
+      "Steps": 9,
+      "HR": "89.70588235294117",
+      "Inclinometer": 1
+    },
+    {
+      "time": "10:14",
+      "Activity": 2,
+      "Steps": 19,
+      "HR": "93.36",
+      "Inclinometer": 1
+    },
+    {
+      "time": "10:15",
+      "Activity": 2,
+      "Steps": 4,
+      "HR": "87.72916666666667",
+      "Inclinometer": 3
+    },
+    {
+      "time": "10:16",
+      "Activity": 2,
+      "Steps": 10,
+      "HR": "89.04166666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "10:17",
+      "Activity": 2,
+      "Steps": 13,
+      "HR": "91.29166666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "10:18",
+      "Activity": 2,
+      "Steps": 24,
+      "HR": "89.61224489795919",
+      "Inclinometer": 1
+    },
+    {
+      "time": "10:19",
+      "Activity": 2,
+      "Steps": 18,
+      "HR": "89.18867924528301",
+      "Inclinometer": 1
+    },
+    {
+      "time": "10:20",
+      "Activity": 2,
+      "Steps": 7,
+      "HR": "88.4375",
+      "Inclinometer": 2
+    },
+    {
+      "time": "10:21",
+      "Activity": 2,
+      "Steps": 7,
+      "HR": "86.875",
+      "Inclinometer": 2
+    },
+    {
+      "time": "10:22",
+      "Activity": 2,
+      "Steps": 3,
+      "HR": "80.06382978723404",
+      "Inclinometer": 3
+    },
+    {
+      "time": "10:37",
+      "Activity": 9,
+      "Steps": 12,
+      "HR": "86.3125",
+      "Inclinometer": 1
+    },
+    {
+      "time": "10:38",
+      "Activity": 9,
+      "Steps": 7,
+      "HR": "87.0625",
+      "Inclinometer": 2
+    },
+    {
+      "time": "10:39",
+      "Activity": 9,
+      "Steps": 4,
+      "HR": "86.70833333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "10:40",
+      "Activity": 10,
+      "Steps": 6,
+      "HR": "87.7872340425532",
+      "Inclinometer": 2
+    },
+    {
+      "time": "10:41",
+      "Activity": 10,
+      "Steps": 24,
+      "HR": "88.28888888888889",
+      "Inclinometer": 1
+    },
+    {
+      "time": "10:42",
+      "Activity": 10,
+      "Steps": 16,
+      "HR": "91.9375",
+      "Inclinometer": 1
+    },
+    {
+      "time": "10:43",
+      "Activity": 10,
+      "Steps": 18,
+      "HR": "97.97916666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "10:44",
+      "Activity": 10,
+      "Steps": 6,
+      "HR": "104.83333333333331",
+      "Inclinometer": 2
+    },
+    {
+      "time": "10:45",
+      "Activity": 10,
+      "Steps": 4,
+      "HR": "110.94444444444444",
+      "Inclinometer": 2
+    },
+    {
+      "time": "10:55",
+      "Activity": 6,
+      "Steps": 8,
+      "HR": "88.20833333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "10:56",
+      "Activity": 6,
+      "Steps": 28,
+      "HR": "95.33962264150944",
+      "Inclinometer": 1
+    },
+    {
+      "time": "10:57",
+      "Activity": 6,
+      "Steps": 1,
+      "HR": "83.97435897435898",
+      "Inclinometer": 0
+    },
+    {
+      "time": "10:58",
+      "Activity": 6,
+      "Steps": 12,
+      "HR": "90.14583333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "10:59",
+      "Activity": 6,
+      "Steps": 19,
+      "HR": "96.08333333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "11:00",
+      "Activity": 2,
+      "Steps": 23,
+      "HR": "93.92592592592592",
+      "Inclinometer": 1
+    },
+    {
+      "time": "11:01",
+      "Activity": 2,
+      "Steps": 18,
+      "HR": "86.8125",
+      "Inclinometer": 1
+    },
+    {
+      "time": "11:02",
+      "Activity": 2,
+      "Steps": 33,
+      "HR": "96.22916666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "11:03",
+      "Activity": 2,
+      "Steps": 20,
+      "HR": "93.5",
+      "Inclinometer": 1
+    },
+    {
+      "time": "11:04",
+      "Activity": 2,
+      "Steps": 0,
+      "HR": "80.72916666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "11:05",
+      "Activity": 2,
+      "Steps": 1,
+      "HR": "77.82",
+      "Inclinometer": 3
+    },
+    {
+      "time": "11:06",
+      "Activity": 2,
+      "Steps": 1,
+      "HR": "81.92307692307692",
+      "Inclinometer": 3
+    },
+    {
+      "time": "11:07",
+      "Activity": 2,
+      "Steps": 0,
+      "HR": "84.97916666666667",
+      "Inclinometer": 3
+    },
+    {
+      "time": "11:08",
+      "Activity": 2,
+      "Steps": 1,
+      "HR": "81.83333333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "11:09",
+      "Activity": 2,
+      "Steps": 1,
+      "HR": "82.0625",
+      "Inclinometer": 3
+    },
+    {
+      "time": "11:10",
+      "Activity": 2,
+      "Steps": 1,
+      "HR": "83.89583333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "11:11",
+      "Activity": 2,
+      "Steps": 0,
+      "HR": "79.01886792452831",
+      "Inclinometer": 2
+    },
+    {
+      "time": "11:12",
+      "Activity": 2,
+      "Steps": 0,
+      "HR": "80.34693877551021",
+      "Inclinometer": 2
+    },
+    {
+      "time": "11:13",
+      "Activity": 2,
+      "Steps": 2,
+      "HR": "81.85416666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "11:14",
+      "Activity": 2,
+      "Steps": 0,
+      "HR": "81.02083333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "11:15",
+      "Activity": 2,
+      "Steps": 0,
+      "HR": "79.625",
+      "Inclinometer": 2
+    },
+    {
+      "time": "11:16",
+      "Activity": 2,
+      "Steps": 12,
+      "HR": "88.8",
+      "Inclinometer": 2
+    },
+    {
+      "time": "11:17",
+      "Activity": 2,
+      "Steps": 3,
+      "HR": "73.0",
+      "Inclinometer": 2
+    },
+    {
+      "time": "11:18",
+      "Activity": 2,
+      "Steps": 8,
+      "HR": "78.6875",
+      "Inclinometer": 1
+    },
+    {
+      "time": "11:19",
+      "Activity": 2,
+      "Steps": 3,
+      "HR": "75.60416666666667",
+      "Inclinometer": 3
+    },
+    {
+      "time": "11:20",
+      "Activity": 2,
+      "Steps": 0,
+      "HR": "77.10416666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:00",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "70.66",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:01",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "72.53846153846153",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:02",
+      "Activity": 7,
+      "Steps": 6,
+      "HR": "73.08333333333333",
+      "Inclinometer": 3
+    },
+    {
+      "time": "12:03",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "68.72916666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:04",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "71.27083333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:05",
+      "Activity": 7,
+      "Steps": 2,
+      "HR": "73.54166666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:06",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "71.39622641509433",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:07",
+      "Activity": 7,
+      "Steps": 2,
+      "HR": "69.14285714285714",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:08",
+      "Activity": 7,
+      "Steps": 4,
+      "HR": "72.8125",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:09",
+      "Activity": 7,
+      "Steps": 2,
+      "HR": "72.5625",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:10",
+      "Activity": 7,
+      "Steps": 3,
+      "HR": "73.33333333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:11",
+      "Activity": 7,
+      "Steps": 3,
+      "HR": "72.78",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:12",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "73.46153846153847",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:13",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "69.4047619047619",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:14",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "72.31111111111112",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:15",
+      "Activity": 7,
+      "Steps": 4,
+      "HR": "69.29166666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:16",
+      "Activity": 7,
+      "Steps": 7,
+      "HR": "76.78571428571429",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:17",
+      "Activity": 7,
+      "Steps": 3,
+      "HR": "71.25",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:18",
+      "Activity": 7,
+      "Steps": 7,
+      "HR": "73.79166666666667",
+      "Inclinometer": 3
+    },
+    {
+      "time": "12:19",
+      "Activity": 7,
+      "Steps": 6,
+      "HR": "70.56862745098039",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:20",
+      "Activity": 7,
+      "Steps": 9,
+      "HR": "73.58823529411765",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:21",
+      "Activity": 7,
+      "Steps": 7,
+      "HR": "77.10416666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:22",
+      "Activity": 7,
+      "Steps": 11,
+      "HR": "75.89583333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "12:23",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "79.58333333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:24",
+      "Activity": 7,
+      "Steps": 8,
+      "HR": "82.6875",
+      "Inclinometer": 3
+    },
+    {
+      "time": "12:25",
+      "Activity": 7,
+      "Steps": 8,
+      "HR": "79.14814814814815",
+      "Inclinometer": 1
+    },
+    {
+      "time": "12:26",
+      "Activity": 7,
+      "Steps": 21,
+      "HR": "78.58333333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "12:27",
+      "Activity": 7,
+      "Steps": 32,
+      "HR": "82.08333333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "12:28",
+      "Activity": 7,
+      "Steps": 16,
+      "HR": "76.625",
+      "Inclinometer": 1
+    },
+    {
+      "time": "12:29",
+      "Activity": 7,
+      "Steps": 13,
+      "HR": "72.75",
+      "Inclinometer": 1
+    },
+    {
+      "time": "12:30",
+      "Activity": 7,
+      "Steps": 11,
+      "HR": "76.17647058823529",
+      "Inclinometer": 1
+    },
+    {
+      "time": "12:31",
+      "Activity": 7,
+      "Steps": 22,
+      "HR": "77.58823529411765",
+      "Inclinometer": 1
+    },
+    {
+      "time": "12:32",
+      "Activity": 7,
+      "Steps": 17,
+      "HR": "75.33333333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "12:33",
+      "Activity": 7,
+      "Steps": 23,
+      "HR": "78.41666666666667",
+      "Inclinometer": 1
+    },
+    {
+      "time": "12:34",
+      "Activity": 7,
+      "Steps": 22,
+      "HR": "76.39583333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "12:35",
+      "Activity": 7,
+      "Steps": 18,
+      "HR": "75.27083333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "12:36",
+      "Activity": 7,
+      "Steps": 10,
+      "HR": "75.24074074074075",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:37",
+      "Activity": 7,
+      "Steps": 9,
+      "HR": "74.97916666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:38",
+      "Activity": 7,
+      "Steps": 12,
+      "HR": "80.83333333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "12:39",
+      "Activity": 7,
+      "Steps": 20,
+      "HR": "78.29166666666667",
+      "Inclinometer": 1
+    },
+    {
+      "time": "12:40",
+      "Activity": 7,
+      "Steps": 22,
+      "HR": "75.54166666666667",
+      "Inclinometer": 1
+    },
+    {
+      "time": "12:41",
+      "Activity": 7,
+      "Steps": 20,
+      "HR": "76.41176470588235",
+      "Inclinometer": 1
+    },
+    {
+      "time": "12:42",
+      "Activity": 7,
+      "Steps": 13,
+      "HR": "76.3921568627451",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:43",
+      "Activity": 7,
+      "Steps": 12,
+      "HR": "78.1875",
+      "Inclinometer": 1
+    },
+    {
+      "time": "12:44",
+      "Activity": 7,
+      "Steps": 2,
+      "HR": "70.89583333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:45",
+      "Activity": 7,
+      "Steps": 26,
+      "HR": "77.47916666666667",
+      "Inclinometer": 1
+    },
+    {
+      "time": "12:46",
+      "Activity": 7,
+      "Steps": 6,
+      "HR": "76.35416666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:47",
+      "Activity": 7,
+      "Steps": 18,
+      "HR": "76.5925925925926",
+      "Inclinometer": 1
+    },
+    {
+      "time": "12:48",
+      "Activity": 7,
+      "Steps": 13,
+      "HR": "78.52083333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "12:49",
+      "Activity": 7,
+      "Steps": 23,
+      "HR": "72.5",
+      "Inclinometer": 1
+    },
+    {
+      "time": "12:50",
+      "Activity": 7,
+      "Steps": 10,
+      "HR": "75.79166666666667",
+      "Inclinometer": 3
+    },
+    {
+      "time": "12:51",
+      "Activity": 7,
+      "Steps": 11,
+      "HR": "73.16666666666667",
+      "Inclinometer": 3
+    },
+    {
+      "time": "12:52",
+      "Activity": 7,
+      "Steps": 26,
+      "HR": "74.98039215686275",
+      "Inclinometer": 1
+    },
+    {
+      "time": "12:53",
+      "Activity": 7,
+      "Steps": 14,
+      "HR": "74.72549019607843",
+      "Inclinometer": 1
+    },
+    {
+      "time": "12:54",
+      "Activity": 7,
+      "Steps": 32,
+      "HR": "72.70833333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "12:55",
+      "Activity": 7,
+      "Steps": 22,
+      "HR": "75.64583333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "12:56",
+      "Activity": 7,
+      "Steps": 8,
+      "HR": "71.02127659574468",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:57",
+      "Activity": 7,
+      "Steps": 3,
+      "HR": "71.83333333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:58",
+      "Activity": 7,
+      "Steps": 5,
+      "HR": "68.67924528301887",
+      "Inclinometer": 2
+    },
+    {
+      "time": "12:59",
+      "Activity": 7,
+      "Steps": 6,
+      "HR": "70.43478260869566",
+      "Inclinometer": 3
+    },
+    {
+      "time": "13:00",
+      "Activity": 7,
+      "Steps": 3,
+      "HR": "66.85106382978724",
+      "Inclinometer": 3
+    },
+    {
+      "time": "13:30",
+      "Activity": 4,
+      "Steps": 50,
+      "HR": "93.29166666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "13:31",
+      "Activity": 4,
+      "Steps": 54,
+      "HR": "98.1",
+      "Inclinometer": 1
+    },
+    {
+      "time": "13:32",
+      "Activity": 4,
+      "Steps": 69,
+      "HR": "111.67307692307692",
+      "Inclinometer": 1
+    },
+    {
+      "time": "13:33",
+      "Activity": 4,
+      "Steps": 44,
+      "HR": "114.4888888888889",
+      "Inclinometer": 1
+    },
+    {
+      "time": "13:34",
+      "Activity": 4,
+      "Steps": 35,
+      "HR": "114.95833333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "13:35",
+      "Activity": 10,
+      "Steps": 6,
+      "HR": "98.83333333333331",
+      "Inclinometer": 2
+    },
+    {
+      "time": "13:36",
+      "Activity": 10,
+      "Steps": 6,
+      "HR": "97.94",
+      "Inclinometer": 2
+    },
+    {
+      "time": "13:37",
+      "Activity": 10,
+      "Steps": 4,
+      "HR": "97.53846153846152",
+      "Inclinometer": 2
+    },
+    {
+      "time": "13:38",
+      "Activity": 10,
+      "Steps": 1,
+      "HR": "96.6875",
+      "Inclinometer": 2
+    },
+    {
+      "time": "13:39",
+      "Activity": 10,
+      "Steps": 23,
+      "HR": "98.58333333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "13:40",
+      "Activity": 3,
+      "Steps": 44,
+      "HR": "112.63829787234044",
+      "Inclinometer": 1
+    },
+    {
+      "time": "13:41",
+      "Activity": 3,
+      "Steps": 45,
+      "HR": "117.04255319148936",
+      "Inclinometer": 1
+    },
+    {
+      "time": "13:42",
+      "Activity": 3,
+      "Steps": 43,
+      "HR": "115.91111111111113",
+      "Inclinometer": 1
+    },
+    {
+      "time": "13:43",
+      "Activity": 3,
+      "Steps": 31,
+      "HR": "109.60416666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "13:44",
+      "Activity": 3,
+      "Steps": 40,
+      "HR": "126.92857142857144",
+      "Inclinometer": 1
+    },
+    {
+      "time": "13:45",
+      "Activity": 3,
+      "Steps": 29,
+      "HR": "118.52",
+      "Inclinometer": 1
+    },
+    {
+      "time": "13:55",
+      "Activity": 6,
+      "Steps": 21,
+      "HR": "108.33333333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "13:56",
+      "Activity": 6,
+      "Steps": 8,
+      "HR": "106.25",
+      "Inclinometer": 3
+    },
+    {
+      "time": "13:57",
+      "Activity": 6,
+      "Steps": 13,
+      "HR": "100.34042553191487",
+      "Inclinometer": 3
+    },
+    {
+      "time": "13:58",
+      "Activity": 6,
+      "Steps": 15,
+      "HR": "101.54",
+      "Inclinometer": 3
+    },
+    {
+      "time": "13:59",
+      "Activity": 6,
+      "Steps": 2,
+      "HR": "93.6346153846154",
+      "Inclinometer": 3
+    },
+    {
+      "time": "14:00",
+      "Activity": 6,
+      "Steps": 4,
+      "HR": "93.35416666666669",
+      "Inclinometer": 3
+    },
+    {
+      "time": "14:01",
+      "Activity": 6,
+      "Steps": 13,
+      "HR": "98.29166666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:02",
+      "Activity": 6,
+      "Steps": 20,
+      "HR": "111.4375",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:03",
+      "Activity": 6,
+      "Steps": 13,
+      "HR": "98.375",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:04",
+      "Activity": 6,
+      "Steps": 4,
+      "HR": "96.67924528301889",
+      "Inclinometer": 2
+    },
+    {
+      "time": "14:05",
+      "Activity": 6,
+      "Steps": 11,
+      "HR": "101.14285714285714",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:06",
+      "Activity": 6,
+      "Steps": 9,
+      "HR": "100.1875",
+      "Inclinometer": 2
+    },
+    {
+      "time": "14:07",
+      "Activity": 6,
+      "Steps": 10,
+      "HR": "98.4375",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:08",
+      "Activity": 6,
+      "Steps": 15,
+      "HR": "107.3125",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:09",
+      "Activity": 6,
+      "Steps": 24,
+      "HR": "112.3",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:10",
+      "Activity": 6,
+      "Steps": 11,
+      "HR": "113.92857142857144",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:11",
+      "Activity": 6,
+      "Steps": 5,
+      "HR": "97.25",
+      "Inclinometer": 2
+    },
+    {
+      "time": "14:12",
+      "Activity": 6,
+      "Steps": 35,
+      "HR": "107.6875",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:13",
+      "Activity": 6,
+      "Steps": 27,
+      "HR": "100.3921568627451",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:14",
+      "Activity": 6,
+      "Steps": 15,
+      "HR": "98.41176470588236",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:15",
+      "Activity": 6,
+      "Steps": 10,
+      "HR": "88.35416666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "14:16",
+      "Activity": 6,
+      "Steps": 9,
+      "HR": "95.70833333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:17",
+      "Activity": 6,
+      "Steps": 14,
+      "HR": "96.41666666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:18",
+      "Activity": 6,
+      "Steps": 6,
+      "HR": "92.95833333333331",
+      "Inclinometer": 2
+    },
+    {
+      "time": "14:19",
+      "Activity": 6,
+      "Steps": 3,
+      "HR": "91.85185185185183",
+      "Inclinometer": 2
+    },
+    {
+      "time": "14:20",
+      "Activity": 6,
+      "Steps": 10,
+      "HR": "97.89583333333331",
+      "Inclinometer": 2
+    },
+    {
+      "time": "14:21",
+      "Activity": 6,
+      "Steps": 25,
+      "HR": "100.02083333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:22",
+      "Activity": 6,
+      "Steps": 16,
+      "HR": "98.5625",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:23",
+      "Activity": 6,
+      "Steps": 16,
+      "HR": "103.875",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:24",
+      "Activity": 6,
+      "Steps": 13,
+      "HR": "107.52941176470588",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:25",
+      "Activity": 10,
+      "Steps": 14,
+      "HR": "107.74509803921568",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:26",
+      "Activity": 10,
+      "Steps": 11,
+      "HR": "110.89583333333331",
+      "Inclinometer": 3
+    },
+    {
+      "time": "14:27",
+      "Activity": 10,
+      "Steps": 10,
+      "HR": "109.125",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:28",
+      "Activity": 10,
+      "Steps": 11,
+      "HR": "110.79166666666669",
+      "Inclinometer": 2
+    },
+    {
+      "time": "14:29",
+      "Activity": 10,
+      "Steps": 17,
+      "HR": "102.75",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:30",
+      "Activity": 2,
+      "Steps": 20,
+      "HR": "102.20370370370372",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:31",
+      "Activity": 2,
+      "Steps": 24,
+      "HR": "107.83333333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:32",
+      "Activity": 2,
+      "Steps": 14,
+      "HR": "104.02083333333331",
+      "Inclinometer": 2
+    },
+    {
+      "time": "14:33",
+      "Activity": 2,
+      "Steps": 40,
+      "HR": "129.125",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:34",
+      "Activity": 2,
+      "Steps": 28,
+      "HR": "119.20833333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:35",
+      "Activity": 2,
+      "Steps": 17,
+      "HR": "105.98039215686276",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:36",
+      "Activity": 2,
+      "Steps": 14,
+      "HR": "105.51219512195122",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:37",
+      "Activity": 2,
+      "Steps": 10,
+      "HR": "99.9375",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:38",
+      "Activity": 2,
+      "Steps": 7,
+      "HR": "94.12765957446808",
+      "Inclinometer": 2
+    },
+    {
+      "time": "14:39",
+      "Activity": 2,
+      "Steps": 8,
+      "HR": "100.07692307692308",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:40",
+      "Activity": 2,
+      "Steps": 6,
+      "HR": "98.66",
+      "Inclinometer": 2
+    },
+    {
+      "time": "14:41",
+      "Activity": 2,
+      "Steps": 5,
+      "HR": "98.27083333333331",
+      "Inclinometer": 2
+    },
+    {
+      "time": "14:42",
+      "Activity": 2,
+      "Steps": 14,
+      "HR": "101.66666666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:43",
+      "Activity": 2,
+      "Steps": 12,
+      "HR": "106.10416666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:44",
+      "Activity": 2,
+      "Steps": 19,
+      "HR": "101.18367346938776",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:45",
+      "Activity": 2,
+      "Steps": 15,
+      "HR": "104.60377358490568",
+      "Inclinometer": 2
+    },
+    {
+      "time": "14:46",
+      "Activity": 2,
+      "Steps": 1,
+      "HR": "106.27083333333331",
+      "Inclinometer": 3
+    },
+    {
+      "time": "14:47",
+      "Activity": 2,
+      "Steps": 3,
+      "HR": "104.77083333333331",
+      "Inclinometer": 3
+    },
+    {
+      "time": "14:48",
+      "Activity": 2,
+      "Steps": 13,
+      "HR": "101.10416666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:49",
+      "Activity": 2,
+      "Steps": 16,
+      "HR": "99.35416666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:50",
+      "Activity": 2,
+      "Steps": 26,
+      "HR": "101.42307692307692",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:51",
+      "Activity": 2,
+      "Steps": 10,
+      "HR": "99.88",
+      "Inclinometer": 2
+    },
+    {
+      "time": "14:52",
+      "Activity": 2,
+      "Steps": 18,
+      "HR": "103.16666666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:53",
+      "Activity": 2,
+      "Steps": 6,
+      "HR": "100.1875",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:54",
+      "Activity": 2,
+      "Steps": 0,
+      "HR": "102.1063829787234",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:55",
+      "Activity": 2,
+      "Steps": 8,
+      "HR": "103.92",
+      "Inclinometer": 2
+    },
+    {
+      "time": "14:56",
+      "Activity": 2,
+      "Steps": 5,
+      "HR": "99.92307692307692",
+      "Inclinometer": 2
+    },
+    {
+      "time": "14:57",
+      "Activity": 2,
+      "Steps": 7,
+      "HR": "99.27083333333331",
+      "Inclinometer": 3
+    },
+    {
+      "time": "14:58",
+      "Activity": 2,
+      "Steps": 15,
+      "HR": "102.16666666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:59",
+      "Activity": 2,
+      "Steps": 15,
+      "HR": "105.54166666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:00",
+      "Activity": 2,
+      "Steps": 12,
+      "HR": "99.25",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:01",
+      "Activity": 2,
+      "Steps": 1,
+      "HR": "100.62264150943396",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:02",
+      "Activity": 2,
+      "Steps": 0,
+      "HR": "103.3877551020408",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:03",
+      "Activity": 2,
+      "Steps": 0,
+      "HR": "104.41666666666669",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:04",
+      "Activity": 2,
+      "Steps": 8,
+      "HR": "102.27083333333331",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:05",
+      "Activity": 2,
+      "Steps": 26,
+      "HR": "102.60416666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:06",
+      "Activity": 2,
+      "Steps": 21,
+      "HR": "101.34",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:07",
+      "Activity": 2,
+      "Steps": 11,
+      "HR": "96.82692307692308",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:08",
+      "Activity": 2,
+      "Steps": 28,
+      "HR": "93.58333333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:09",
+      "Activity": 2,
+      "Steps": 32,
+      "HR": "94.91666666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:10",
+      "Activity": 2,
+      "Steps": 13,
+      "HR": "95.70833333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:11",
+      "Activity": 2,
+      "Steps": 35,
+      "HR": "101.14583333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:12",
+      "Activity": 2,
+      "Steps": 36,
+      "HR": "115.41509433962264",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:13",
+      "Activity": 2,
+      "Steps": 5,
+      "HR": "87.95918367346938",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:14",
+      "Activity": 2,
+      "Steps": 5,
+      "HR": "73.14583333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:15",
+      "Activity": 2,
+      "Steps": 4,
+      "HR": "77.39583333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:16",
+      "Activity": 2,
+      "Steps": 9,
+      "HR": "78.45833333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:17",
+      "Activity": 2,
+      "Steps": 49,
+      "HR": "100.01960784313724",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:18",
+      "Activity": 2,
+      "Steps": 25,
+      "HR": "131.0",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:19",
+      "Activity": 2,
+      "Steps": 11,
+      "HR": "92.35416666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:20",
+      "Activity": 2,
+      "Steps": 3,
+      "HR": "90.91666666666669",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:21",
+      "Activity": 2,
+      "Steps": 6,
+      "HR": "99.08333333333331",
+      "Inclinometer": 3
+    },
+    {
+      "time": "15:22",
+      "Activity": 2,
+      "Steps": 4,
+      "HR": "94.25",
+      "Inclinometer": 3
+    },
+    {
+      "time": "15:23",
+      "Activity": 2,
+      "Steps": 3,
+      "HR": "98.72222222222224",
+      "Inclinometer": 3
+    },
+    {
+      "time": "15:24",
+      "Activity": 2,
+      "Steps": 0,
+      "HR": "101.47916666666669",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:25",
+      "Activity": 2,
+      "Steps": 0,
+      "HR": "96.66666666666669",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:26",
+      "Activity": 2,
+      "Steps": 0,
+      "HR": "94.75",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:27",
+      "Activity": 2,
+      "Steps": 1,
+      "HR": "98.47916666666669",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:28",
+      "Activity": 2,
+      "Steps": 0,
+      "HR": "95.66666666666669",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:29",
+      "Activity": 2,
+      "Steps": 3,
+      "HR": "93.18",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:30",
+      "Activity": 2,
+      "Steps": 8,
+      "HR": "100.10416666666669",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:31",
+      "Activity": 2,
+      "Steps": 3,
+      "HR": "96.04166666666669",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:32",
+      "Activity": 2,
+      "Steps": 0,
+      "HR": "99.14583333333331",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:33",
+      "Activity": 2,
+      "Steps": 1,
+      "HR": "95.375",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:34",
+      "Activity": 2,
+      "Steps": 4,
+      "HR": "99.1851851851852",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:35",
+      "Activity": 2,
+      "Steps": 6,
+      "HR": "96.45833333333331",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:36",
+      "Activity": 2,
+      "Steps": 4,
+      "HR": "93.1304347826087",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:37",
+      "Activity": 2,
+      "Steps": 0,
+      "HR": "95.83333333333331",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:38",
+      "Activity": 2,
+      "Steps": 6,
+      "HR": "97.5625",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:39",
+      "Activity": 2,
+      "Steps": 6,
+      "HR": "97.27450980392156",
+      "Inclinometer": 3
+    },
+    {
+      "time": "15:40",
+      "Activity": 2,
+      "Steps": 6,
+      "HR": "103.50980392156865",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:41",
+      "Activity": 2,
+      "Steps": 2,
+      "HR": "96.9318181818182",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:42",
+      "Activity": 2,
+      "Steps": 3,
+      "HR": "99.76595744680851",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:43",
+      "Activity": 2,
+      "Steps": 5,
+      "HR": "90.7948717948718",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:44",
+      "Activity": 2,
+      "Steps": 1,
+      "HR": "91.41666666666669",
+      "Inclinometer": 3
+    },
+    {
+      "time": "15:45",
+      "Activity": 2,
+      "Steps": 2,
+      "HR": "88.75510204081633",
+      "Inclinometer": 3
+    },
+    {
+      "time": "15:46",
+      "Activity": 2,
+      "Steps": 2,
+      "HR": "94.41176470588236",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:47",
+      "Activity": 2,
+      "Steps": 9,
+      "HR": "94.6808510638298",
+      "Inclinometer": 0
+    },
+    {
+      "time": "15:48",
+      "Activity": 2,
+      "Steps": 8,
+      "HR": "95.125",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:49",
+      "Activity": 2,
+      "Steps": 25,
+      "HR": "100.20833333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:50",
+      "Activity": 2,
+      "Steps": 24,
+      "HR": "96.58333333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:51",
+      "Activity": 2,
+      "Steps": 21,
+      "HR": "96.67647058823528",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:52",
+      "Activity": 2,
+      "Steps": 20,
+      "HR": "91.9375",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:53",
+      "Activity": 2,
+      "Steps": 25,
+      "HR": "91.1153846153846",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:54",
+      "Activity": 2,
+      "Steps": 6,
+      "HR": "95.74",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:55",
+      "Activity": 2,
+      "Steps": 15,
+      "HR": "103.89583333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:56",
+      "Activity": 2,
+      "Steps": 12,
+      "HR": "91.58333333333331",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:57",
+      "Activity": 2,
+      "Steps": 25,
+      "HR": "92.35416666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:58",
+      "Activity": 2,
+      "Steps": 16,
+      "HR": "89.12244897959184",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:59",
+      "Activity": 2,
+      "Steps": 11,
+      "HR": "91.50943396226415",
+      "Inclinometer": 2
+    },
+    {
+      "time": "16:00",
+      "Activity": 2,
+      "Steps": 9,
+      "HR": "93.1875",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:01",
+      "Activity": 2,
+      "Steps": 15,
+      "HR": "99.9375",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:02",
+      "Activity": 2,
+      "Steps": 26,
+      "HR": "95.10416666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:03",
+      "Activity": 2,
+      "Steps": 11,
+      "HR": "93.54347826086956",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:04",
+      "Activity": 2,
+      "Steps": 22,
+      "HR": "93.0377358490566",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:05",
+      "Activity": 2,
+      "Steps": 24,
+      "HR": "98.41666666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:06",
+      "Activity": 2,
+      "Steps": 38,
+      "HR": "96.1875",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:07",
+      "Activity": 2,
+      "Steps": 42,
+      "HR": "95.95833333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:08",
+      "Activity": 2,
+      "Steps": 34,
+      "HR": "103.52083333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:09",
+      "Activity": 2,
+      "Steps": 24,
+      "HR": "93.0576923076923",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:10",
+      "Activity": 2,
+      "Steps": 18,
+      "HR": "89.0",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:11",
+      "Activity": 2,
+      "Steps": 17,
+      "HR": "90.6875",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:12",
+      "Activity": 2,
+      "Steps": 21,
+      "HR": "90.6875",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:13",
+      "Activity": 2,
+      "Steps": 18,
+      "HR": "92.58333333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:14",
+      "Activity": 2,
+      "Steps": 17,
+      "HR": "91.14285714285714",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:15",
+      "Activity": 2,
+      "Steps": 24,
+      "HR": "91.98113207547168",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:16",
+      "Activity": 2,
+      "Steps": 13,
+      "HR": "92.39583333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:17",
+      "Activity": 2,
+      "Steps": 10,
+      "HR": "89.9375",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:18",
+      "Activity": 2,
+      "Steps": 14,
+      "HR": "91.52083333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:19",
+      "Activity": 2,
+      "Steps": 18,
+      "HR": "94.0",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:20",
+      "Activity": 2,
+      "Steps": 32,
+      "HR": "89.66666666666667",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:21",
+      "Activity": 2,
+      "Steps": 12,
+      "HR": "91.5",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:22",
+      "Activity": 2,
+      "Steps": 12,
+      "HR": "87.35416666666667",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:23",
+      "Activity": 2,
+      "Steps": 18,
+      "HR": "89.46808510638297",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:24",
+      "Activity": 2,
+      "Steps": 9,
+      "HR": "84.10416666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "16:25",
+      "Activity": 2,
+      "Steps": 3,
+      "HR": "85.38461538461539",
+      "Inclinometer": 2
+    },
+    {
+      "time": "16:26",
+      "Activity": 2,
+      "Steps": 16,
+      "HR": "88.78",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:27",
+      "Activity": 2,
+      "Steps": 1,
+      "HR": "80.3913043478261",
+      "Inclinometer": 2
+    },
+    {
+      "time": "16:28",
+      "Activity": 2,
+      "Steps": 4,
+      "HR": "82.08333333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "16:29",
+      "Activity": 2,
+      "Steps": 10,
+      "HR": "84.76595744680851",
+      "Inclinometer": 2
+    },
+    {
+      "time": "16:30",
+      "Activity": 2,
+      "Steps": 21,
+      "HR": "94.93877551020408",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:31",
+      "Activity": 2,
+      "Steps": 11,
+      "HR": "91.811320754717",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:32",
+      "Activity": 2,
+      "Steps": 13,
+      "HR": "91.29166666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:33",
+      "Activity": 2,
+      "Steps": 16,
+      "HR": "104.6875",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:34",
+      "Activity": 2,
+      "Steps": 14,
+      "HR": "101.79166666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:35",
+      "Activity": 2,
+      "Steps": 15,
+      "HR": "100.9375",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:36",
+      "Activity": 2,
+      "Steps": 20,
+      "HR": "105.8076923076923",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:37",
+      "Activity": 2,
+      "Steps": 7,
+      "HR": "93.36734693877553",
+      "Inclinometer": 2
+    },
+    {
+      "time": "16:38",
+      "Activity": 2,
+      "Steps": 5,
+      "HR": "98.86842105263158",
+      "Inclinometer": 2
+    },
+    {
+      "time": "16:39",
+      "Activity": 2,
+      "Steps": 6,
+      "HR": "95.95744680851064",
+      "Inclinometer": 2
+    },
+    {
+      "time": "16:40",
+      "Activity": 10,
+      "Steps": 8,
+      "HR": "95.43396226415096",
+      "Inclinometer": 2
+    },
+    {
+      "time": "16:41",
+      "Activity": 10,
+      "Steps": 23,
+      "HR": "105.83673469387756",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:42",
+      "Activity": 10,
+      "Steps": 5,
+      "HR": "91.10416666666669",
+      "Inclinometer": 3
+    },
+    {
+      "time": "16:43",
+      "Activity": 10,
+      "Steps": 5,
+      "HR": "93.97916666666669",
+      "Inclinometer": 2
+    },
+    {
+      "time": "16:44",
+      "Activity": 10,
+      "Steps": 15,
+      "HR": "98.39583333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:45",
+      "Activity": 2,
+      "Steps": 19,
+      "HR": "108.54",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:46",
+      "Activity": 2,
+      "Steps": 7,
+      "HR": "93.5576923076923",
+      "Inclinometer": 0
+    },
+    {
+      "time": "16:47",
+      "Activity": 2,
+      "Steps": 12,
+      "HR": "91.02083333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:48",
+      "Activity": 2,
+      "Steps": 13,
+      "HR": "97.08333333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:49",
+      "Activity": 2,
+      "Steps": 18,
+      "HR": "94.72916666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:50",
+      "Activity": 2,
+      "Steps": 6,
+      "HR": "90.58333333333331",
+      "Inclinometer": 2
+    },
+    {
+      "time": "16:51",
+      "Activity": 2,
+      "Steps": 0,
+      "HR": "90.49056603773585",
+      "Inclinometer": 2
+    },
+    {
+      "time": "16:52",
+      "Activity": 2,
+      "Steps": 0,
+      "HR": "92.08163265306122",
+      "Inclinometer": 2
+    },
+    {
+      "time": "16:53",
+      "Activity": 2,
+      "Steps": 2,
+      "HR": "88.64583333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "16:54",
+      "Activity": 2,
+      "Steps": 9,
+      "HR": "96.72916666666669",
+      "Inclinometer": 2
+    },
+    {
+      "time": "16:55",
+      "Activity": 2,
+      "Steps": 12,
+      "HR": "99.10416666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:56",
+      "Activity": 2,
+      "Steps": 7,
+      "HR": "91.56",
+      "Inclinometer": 2
+    },
+    {
+      "time": "16:57",
+      "Activity": 2,
+      "Steps": 8,
+      "HR": "88.90384615384616",
+      "Inclinometer": 3
+    },
+    {
+      "time": "16:58",
+      "Activity": 2,
+      "Steps": 2,
+      "HR": "88.28888888888889",
+      "Inclinometer": 1
+    },
+    {
+      "time": "16:59",
+      "Activity": 2,
+      "Steps": 4,
+      "HR": "85.60416666666667",
+      "Inclinometer": 3
+    },
+    {
+      "time": "17:00",
+      "Activity": 2,
+      "Steps": 1,
+      "HR": "85.75",
+      "Inclinometer": 2
+    },
+    {
+      "time": "17:01",
+      "Activity": 2,
+      "Steps": 2,
+      "HR": "87.04",
+      "Inclinometer": 2
+    },
+    {
+      "time": "17:02",
+      "Activity": 2,
+      "Steps": 8,
+      "HR": "86.28846153846153",
+      "Inclinometer": 3
+    },
+    {
+      "time": "17:03",
+      "Activity": 2,
+      "Steps": 2,
+      "HR": "81.10416666666667",
+      "Inclinometer": 3
+    },
+    {
+      "time": "17:04",
+      "Activity": 2,
+      "Steps": 5,
+      "HR": "84.89583333333333",
+      "Inclinometer": 3
+    },
+    {
+      "time": "17:05",
+      "Activity": 2,
+      "Steps": 3,
+      "HR": "85.25",
+      "Inclinometer": 2
+    },
+    {
+      "time": "17:06",
+      "Activity": 2,
+      "Steps": 15,
+      "HR": "90.08510638297872",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:07",
+      "Activity": 2,
+      "Steps": 9,
+      "HR": "85.20408163265306",
+      "Inclinometer": 3
+    },
+    {
+      "time": "17:08",
+      "Activity": 2,
+      "Steps": 8,
+      "HR": "86.97872340425532",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:09",
+      "Activity": 2,
+      "Steps": 9,
+      "HR": "94.0",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:10",
+      "Activity": 2,
+      "Steps": 5,
+      "HR": "83.73333333333333",
+      "Inclinometer": 3
+    },
+    {
+      "time": "17:11",
+      "Activity": 2,
+      "Steps": 10,
+      "HR": "90.54",
+      "Inclinometer": 2
+    },
+    {
+      "time": "17:12",
+      "Activity": 2,
+      "Steps": 6,
+      "HR": "90.26923076923076",
+      "Inclinometer": 2
+    },
+    {
+      "time": "17:13",
+      "Activity": 2,
+      "Steps": 29,
+      "HR": "102.54166666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:14",
+      "Activity": 2,
+      "Steps": 10,
+      "HR": "91.52083333333331",
+      "Inclinometer": 2
+    },
+    {
+      "time": "17:15",
+      "Activity": 2,
+      "Steps": 18,
+      "HR": "88.60416666666667",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:16",
+      "Activity": 2,
+      "Steps": 23,
+      "HR": "88.3125",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:17",
+      "Activity": 2,
+      "Steps": 18,
+      "HR": "87.67924528301887",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:18",
+      "Activity": 2,
+      "Steps": 24,
+      "HR": "95.12244897959184",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:19",
+      "Activity": 2,
+      "Steps": 6,
+      "HR": "90.02083333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "17:20",
+      "Activity": 2,
+      "Steps": 12,
+      "HR": "92.8125",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:21",
+      "Activity": 2,
+      "Steps": 11,
+      "HR": "87.31914893617021",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:22",
+      "Activity": 2,
+      "Steps": 9,
+      "HR": "95.34",
+      "Inclinometer": 3
+    },
+    {
+      "time": "17:23",
+      "Activity": 2,
+      "Steps": 5,
+      "HR": "91.17307692307692",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:24",
+      "Activity": 2,
+      "Steps": 9,
+      "HR": "93.375",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:25",
+      "Activity": 2,
+      "Steps": 20,
+      "HR": "93.5",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:26",
+      "Activity": 2,
+      "Steps": 15,
+      "HR": "90.41666666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:27",
+      "Activity": 2,
+      "Steps": 22,
+      "HR": "89.04166666666667",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:28",
+      "Activity": 2,
+      "Steps": 12,
+      "HR": "89.77358490566037",
+      "Inclinometer": 3
+    },
+    {
+      "time": "17:29",
+      "Activity": 2,
+      "Steps": 14,
+      "HR": "87.28571428571429",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:30",
+      "Activity": 2,
+      "Steps": 12,
+      "HR": "92.0",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:31",
+      "Activity": 2,
+      "Steps": 16,
+      "HR": "90.79166666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:32",
+      "Activity": 2,
+      "Steps": 21,
+      "HR": "93.27083333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:33",
+      "Activity": 2,
+      "Steps": 11,
+      "HR": "85.52",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:34",
+      "Activity": 2,
+      "Steps": 6,
+      "HR": "79.51162790697674",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:35",
+      "Activity": 2,
+      "Steps": 14,
+      "HR": "83.3125",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:36",
+      "Activity": 2,
+      "Steps": 6,
+      "HR": "81.79166666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "17:37",
+      "Activity": 2,
+      "Steps": 9,
+      "HR": "82.56",
+      "Inclinometer": 2
+    },
+    {
+      "time": "17:38",
+      "Activity": 2,
+      "Steps": 14,
+      "HR": "81.96153846153847",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:39",
+      "Activity": 2,
+      "Steps": 9,
+      "HR": "83.875",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:40",
+      "Activity": 2,
+      "Steps": 13,
+      "HR": "82.0625",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:41",
+      "Activity": 2,
+      "Steps": 0,
+      "HR": "79.39583333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "17:42",
+      "Activity": 2,
+      "Steps": 4,
+      "HR": "81.39583333333333",
+      "Inclinometer": 3
+    },
+    {
+      "time": "17:43",
+      "Activity": 2,
+      "Steps": 23,
+      "HR": "90.60377358490568",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:44",
+      "Activity": 2,
+      "Steps": 4,
+      "HR": "86.6734693877551",
+      "Inclinometer": 2
+    },
+    {
+      "time": "17:45",
+      "Activity": 2,
+      "Steps": 5,
+      "HR": "86.3125",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:46",
+      "Activity": 2,
+      "Steps": 10,
+      "HR": "87.39583333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:47",
+      "Activity": 2,
+      "Steps": 11,
+      "HR": "84.68085106382979",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:48",
+      "Activity": 2,
+      "Steps": 13,
+      "HR": "85.12",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:49",
+      "Activity": 2,
+      "Steps": 17,
+      "HR": "83.07692307692308",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:50",
+      "Activity": 2,
+      "Steps": 5,
+      "HR": "84.5",
+      "Inclinometer": 2
+    },
+    {
+      "time": "17:51",
+      "Activity": 2,
+      "Steps": 6,
+      "HR": "86.04166666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "17:52",
+      "Activity": 2,
+      "Steps": 12,
+      "HR": "92.39583333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:53",
+      "Activity": 2,
+      "Steps": 3,
+      "HR": "92.16666666666669",
+      "Inclinometer": 2
+    },
+    {
+      "time": "17:54",
+      "Activity": 2,
+      "Steps": 12,
+      "HR": "89.50943396226415",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:55",
+      "Activity": 2,
+      "Steps": 16,
+      "HR": "95.06122448979592",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:56",
+      "Activity": 2,
+      "Steps": 3,
+      "HR": "87.1875",
+      "Inclinometer": 3
+    },
+    {
+      "time": "17:57",
+      "Activity": 2,
+      "Steps": 17,
+      "HR": "86.4375",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:58",
+      "Activity": 2,
+      "Steps": 21,
+      "HR": "91.20833333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:59",
+      "Activity": 2,
+      "Steps": 5,
+      "HR": "89.06",
+      "Inclinometer": 3
+    },
+    {
+      "time": "18:00",
+      "Activity": 2,
+      "Steps": 3,
+      "HR": "86.90384615384616",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:01",
+      "Activity": 2,
+      "Steps": 0,
+      "HR": "96.22916666666669",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:02",
+      "Activity": 2,
+      "Steps": 9,
+      "HR": "96.58333333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:03",
+      "Activity": 2,
+      "Steps": 13,
+      "HR": "84.5",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:04",
+      "Activity": 2,
+      "Steps": 13,
+      "HR": "86.75",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:05",
+      "Activity": 2,
+      "Steps": 22,
+      "HR": "92.45283018867924",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:06",
+      "Activity": 2,
+      "Steps": 26,
+      "HR": "92.63265306122447",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:07",
+      "Activity": 2,
+      "Steps": 10,
+      "HR": "85.85416666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:08",
+      "Activity": 2,
+      "Steps": 8,
+      "HR": "83.08333333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:09",
+      "Activity": 2,
+      "Steps": 11,
+      "HR": "93.27083333333331",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:10",
+      "Activity": 10,
+      "Steps": 29,
+      "HR": "94.1",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:11",
+      "Activity": 10,
+      "Steps": 18,
+      "HR": "93.57692307692308",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:12",
+      "Activity": 10,
+      "Steps": 23,
+      "HR": "98.4375",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:13",
+      "Activity": 10,
+      "Steps": 23,
+      "HR": "97.58333333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:14",
+      "Activity": 10,
+      "Steps": 18,
+      "HR": "94.35416666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:15",
+      "Activity": 10,
+      "Steps": 26,
+      "HR": "99.16666666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:16",
+      "Activity": 10,
+      "Steps": 30,
+      "HR": "101.24528301886792",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:17",
+      "Activity": 10,
+      "Steps": 10,
+      "HR": "90.0",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:18",
+      "Activity": 10,
+      "Steps": 2,
+      "HR": "93.64583333333331",
+      "Inclinometer": 3
+    },
+    {
+      "time": "18:19",
+      "Activity": 10,
+      "Steps": 12,
+      "HR": "94.64583333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:20",
+      "Activity": 5,
+      "Steps": 25,
+      "HR": "100.91666666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:21",
+      "Activity": 5,
+      "Steps": 26,
+      "HR": "101.96",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:22",
+      "Activity": 5,
+      "Steps": 6,
+      "HR": "90.6923076923077",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:23",
+      "Activity": 5,
+      "Steps": 22,
+      "HR": "91.875",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:24",
+      "Activity": 5,
+      "Steps": 25,
+      "HR": "100.52083333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:25",
+      "Activity": 5,
+      "Steps": 12,
+      "HR": "98.39583333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:26",
+      "Activity": 5,
+      "Steps": 32,
+      "HR": "103.22916666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:27",
+      "Activity": 5,
+      "Steps": 27,
+      "HR": "91.49056603773585",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:28",
+      "Activity": 5,
+      "Steps": 18,
+      "HR": "93.42857142857144",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:29",
+      "Activity": 5,
+      "Steps": 30,
+      "HR": "95.77083333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:30",
+      "Activity": 5,
+      "Steps": 16,
+      "HR": "109.12765957446808",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:45",
+      "Activity": 3,
+      "Steps": 0,
+      "HR": "89.16666666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:46",
+      "Activity": 3,
+      "Steps": 26,
+      "HR": "97.0",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:47",
+      "Activity": 3,
+      "Steps": 47,
+      "HR": "101.79245283018868",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:48",
+      "Activity": 3,
+      "Steps": 42,
+      "HR": "98.27083333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:49",
+      "Activity": 3,
+      "Steps": 48,
+      "HR": "96.97916666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:50",
+      "Activity": 3,
+      "Steps": 43,
+      "HR": "103.64583333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:51",
+      "Activity": 3,
+      "Steps": 46,
+      "HR": "102.70833333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:52",
+      "Activity": 3,
+      "Steps": 45,
+      "HR": "103.3529411764706",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:53",
+      "Activity": 3,
+      "Steps": 36,
+      "HR": "123.26",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:54",
+      "Activity": 3,
+      "Steps": 4,
+      "HR": "113.20833333333331",
+      "Inclinometer": 3
+    },
+    {
+      "time": "18:55",
+      "Activity": 3,
+      "Steps": 22,
+      "HR": "82.6875",
+      "Inclinometer": 1
+    },
+    {
+      "time": "19:00",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "70.20833333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:01",
+      "Activity": 8,
+      "Steps": 4,
+      "HR": "79.47916666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:02",
+      "Activity": 8,
+      "Steps": 6,
+      "HR": "76.0",
+      "Inclinometer": 0
+    },
+    {
+      "time": "19:03",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "69.90196078431373",
+      "Inclinometer": 0
+    },
+    {
+      "time": "19:04",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "74.52083333333333",
+      "Inclinometer": 0
+    },
+    {
+      "time": "19:05",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "71.22916666666667",
+      "Inclinometer": 0
+    },
+    {
+      "time": "19:06",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "71.97916666666667",
+      "Inclinometer": 0
+    },
+    {
+      "time": "19:07",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "72.54166666666667",
+      "Inclinometer": 0
+    },
+    {
+      "time": "19:08",
+      "Activity": 8,
+      "Steps": 2,
+      "HR": "73.05555555555556",
+      "Inclinometer": 0
+    },
+    {
+      "time": "19:09",
+      "Activity": 8,
+      "Steps": 2,
+      "HR": "74.79166666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:10",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "68.8125",
+      "Inclinometer": 3
+    },
+    {
+      "time": "19:11",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "71.16666666666667",
+      "Inclinometer": 3
+    },
+    {
+      "time": "19:12",
+      "Activity": 8,
+      "Steps": 1,
+      "HR": "70.91666666666667",
+      "Inclinometer": 3
+    },
+    {
+      "time": "19:13",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "77.3529411764706",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:14",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "72.6078431372549",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:15",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "72.14583333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:16",
+      "Activity": 8,
+      "Steps": 2,
+      "HR": "75.0",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:17",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "65.08333333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:18",
+      "Activity": 8,
+      "Steps": 1,
+      "HR": "67.4375",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:19",
+      "Activity": 8,
+      "Steps": 1,
+      "HR": "64.9074074074074",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:20",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "66.95833333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:21",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "67.95833333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:22",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "65.02083333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:23",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "64.29787234042553",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:24",
+      "Activity": 8,
+      "Steps": 7,
+      "HR": "76.45098039215686",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:25",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "68.13725490196079",
+      "Inclinometer": 1
+    },
+    {
+      "time": "19:26",
+      "Activity": 8,
+      "Steps": 4,
+      "HR": "73.6875",
+      "Inclinometer": 1
+    },
+    {
+      "time": "19:27",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "65.97058823529412",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:28",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "64.98039215686275",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:29",
+      "Activity": 8,
+      "Steps": 1,
+      "HR": "72.0625",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:30",
+      "Activity": 8,
+      "Steps": 3,
+      "HR": "73.19047619047619",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:31",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "62.28888888888889",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:32",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "63.07692307692308",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:33",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "66.66",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:34",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "69.22222222222223",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:35",
+      "Activity": 8,
+      "Steps": 2,
+      "HR": "62.90243902439025",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:36",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "73.53846153846153",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:37",
+      "Activity": 8,
+      "Steps": 2,
+      "HR": "75.54",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:38",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "62.06666666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:39",
+      "Activity": 8,
+      "Steps": 2,
+      "HR": "63.395833333333336",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:40",
+      "Activity": 8,
+      "Steps": 1,
+      "HR": "79.69565217391305",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:41",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "63.54716981132076",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:42",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "65.04651162790698",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:43",
+      "Activity": 8,
+      "Steps": 2,
+      "HR": "71.02083333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:44",
+      "Activity": 8,
+      "Steps": 0,
+      "HR": "73.875",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:45",
+      "Activity": 8,
+      "Steps": 4,
+      "HR": "78.3",
+      "Inclinometer": 2
+    },
+    {
+      "time": "20:00",
+      "Activity": 3,
+      "Steps": 33,
+      "HR": "103.29166666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:01",
+      "Activity": 3,
+      "Steps": 19,
+      "HR": "93.625",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:02",
+      "Activity": 3,
+      "Steps": 26,
+      "HR": "98.0625",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:03",
+      "Activity": 3,
+      "Steps": 19,
+      "HR": "94.91666666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:04",
+      "Activity": 3,
+      "Steps": 18,
+      "HR": "89.47058823529412",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:05",
+      "Activity": 3,
+      "Steps": 11,
+      "HR": "79.7843137254902",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:06",
+      "Activity": 3,
+      "Steps": 13,
+      "HR": "87.8125",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:07",
+      "Activity": 3,
+      "Steps": 20,
+      "HR": "89.66666666666667",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:08",
+      "Activity": 3,
+      "Steps": 21,
+      "HR": "95.39583333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:09",
+      "Activity": 3,
+      "Steps": 21,
+      "HR": "96.95833333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:10",
+      "Activity": 3,
+      "Steps": 37,
+      "HR": "93.11111111111111",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:11",
+      "Activity": 3,
+      "Steps": 19,
+      "HR": "90.5",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:12",
+      "Activity": 3,
+      "Steps": 12,
+      "HR": "89.375",
+      "Inclinometer": 2
+    },
+    {
+      "time": "20:13",
+      "Activity": 3,
+      "Steps": 23,
+      "HR": "93.91666666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:14",
+      "Activity": 3,
+      "Steps": 40,
+      "HR": "105.3181818181818",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:15",
+      "Activity": 3,
+      "Steps": 48,
+      "HR": "109.0",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:16",
+      "Activity": 3,
+      "Steps": 43,
+      "HR": "112.9375",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:17",
+      "Activity": 3,
+      "Steps": 44,
+      "HR": "113.45833333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:18",
+      "Activity": 3,
+      "Steps": 45,
+      "HR": "117.04166666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:19",
+      "Activity": 3,
+      "Steps": 32,
+      "HR": "108.91666666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:20",
+      "Activity": 3,
+      "Steps": 22,
+      "HR": "104.47058823529412",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:21",
+      "Activity": 3,
+      "Steps": 18,
+      "HR": "101.54901960784314",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:22",
+      "Activity": 3,
+      "Steps": 15,
+      "HR": "103.21052631578948",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:23",
+      "Activity": 3,
+      "Steps": 34,
+      "HR": "111.02083333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:24",
+      "Activity": 3,
+      "Steps": 27,
+      "HR": "102.59615384615384",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:25",
+      "Activity": 3,
+      "Steps": 27,
+      "HR": "102.1",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:26",
+      "Activity": 3,
+      "Steps": 14,
+      "HR": "99.0",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:27",
+      "Activity": 3,
+      "Steps": 24,
+      "HR": "97.79166666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:28",
+      "Activity": 3,
+      "Steps": 17,
+      "HR": "102.4375",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:29",
+      "Activity": 3,
+      "Steps": 20,
+      "HR": "98.91836734693878",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:30",
+      "Activity": 6,
+      "Steps": 8,
+      "HR": "94.39622641509432",
+      "Inclinometer": 3
+    },
+    {
+      "time": "20:31",
+      "Activity": 6,
+      "Steps": 29,
+      "HR": "99.58333333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:32",
+      "Activity": 6,
+      "Steps": 34,
+      "HR": "102.64583333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:33",
+      "Activity": 6,
+      "Steps": 16,
+      "HR": "98.25",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:34",
+      "Activity": 6,
+      "Steps": 19,
+      "HR": "86.17021276595744",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:35",
+      "Activity": 6,
+      "Steps": 17,
+      "HR": "91.59615384615384",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:36",
+      "Activity": 6,
+      "Steps": 5,
+      "HR": "87.1",
+      "Inclinometer": 2
+    },
+    {
+      "time": "20:37",
+      "Activity": 6,
+      "Steps": 2,
+      "HR": "91.27083333333331",
+      "Inclinometer": 2
+    },
+    {
+      "time": "20:38",
+      "Activity": 6,
+      "Steps": 20,
+      "HR": "93.0",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:39",
+      "Activity": 6,
+      "Steps": 12,
+      "HR": "91.25",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:40",
+      "Activity": 6,
+      "Steps": 28,
+      "HR": "102.17307692307692",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:41",
+      "Activity": 6,
+      "Steps": 47,
+      "HR": "108.18",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:42",
+      "Activity": 6,
+      "Steps": 43,
+      "HR": "107.4375",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:43",
+      "Activity": 6,
+      "Steps": 43,
+      "HR": "108.20833333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:44",
+      "Activity": 6,
+      "Steps": 41,
+      "HR": "102.7872340425532",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:45",
+      "Activity": 6,
+      "Steps": 39,
+      "HR": "113.46938775510203",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:46",
+      "Activity": 6,
+      "Steps": 30,
+      "HR": "124.26415094339625",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:47",
+      "Activity": 6,
+      "Steps": 18,
+      "HR": "94.70833333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:48",
+      "Activity": 6,
+      "Steps": 23,
+      "HR": "92.89583333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:49",
+      "Activity": 6,
+      "Steps": 12,
+      "HR": "101.85416666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:50",
+      "Activity": 6,
+      "Steps": 19,
+      "HR": "102.64583333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:51",
+      "Activity": 6,
+      "Steps": 11,
+      "HR": "94.65384615384616",
+      "Inclinometer": 2
+    },
+    {
+      "time": "20:52",
+      "Activity": 6,
+      "Steps": 20,
+      "HR": "99.92",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:53",
+      "Activity": 6,
+      "Steps": 17,
+      "HR": "104.83333333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:54",
+      "Activity": 6,
+      "Steps": 15,
+      "HR": "97.97916666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:55",
+      "Activity": 6,
+      "Steps": 20,
+      "HR": "101.70833333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:56",
+      "Activity": 6,
+      "Steps": 15,
+      "HR": "97.60416666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:57",
+      "Activity": 6,
+      "Steps": 16,
+      "HR": "89.20754716981132",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:58",
+      "Activity": 6,
+      "Steps": 21,
+      "HR": "100.08510638297872",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:59",
+      "Activity": 6,
+      "Steps": 27,
+      "HR": "98.29166666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:00",
+      "Activity": 6,
+      "Steps": 18,
+      "HR": "91.45833333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:01",
+      "Activity": 6,
+      "Steps": 16,
+      "HR": "98.97916666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:02",
+      "Activity": 6,
+      "Steps": 22,
+      "HR": "102.01923076923076",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:03",
+      "Activity": 6,
+      "Steps": 16,
+      "HR": "98.92",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:04",
+      "Activity": 6,
+      "Steps": 16,
+      "HR": "104.39583333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:05",
+      "Activity": 6,
+      "Steps": 12,
+      "HR": "102.125",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:06",
+      "Activity": 6,
+      "Steps": 11,
+      "HR": "100.35416666666669",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:07",
+      "Activity": 6,
+      "Steps": 4,
+      "HR": "100.22448979591836",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:08",
+      "Activity": 6,
+      "Steps": 13,
+      "HR": "106.56603773584904",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:09",
+      "Activity": 6,
+      "Steps": 5,
+      "HR": "105.58333333333331",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:10",
+      "Activity": 6,
+      "Steps": 24,
+      "HR": "104.0",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:11",
+      "Activity": 6,
+      "Steps": 16,
+      "HR": "99.48936170212764",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:12",
+      "Activity": 6,
+      "Steps": 4,
+      "HR": "84.35416666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:13",
+      "Activity": 6,
+      "Steps": 7,
+      "HR": "87.9423076923077",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:14",
+      "Activity": 6,
+      "Steps": 11,
+      "HR": "87.34",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:15",
+      "Activity": 6,
+      "Steps": 25,
+      "HR": "104.1875",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:16",
+      "Activity": 6,
+      "Steps": 8,
+      "HR": "97.36842105263158",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:17",
+      "Activity": 6,
+      "Steps": 28,
+      "HR": "94.0",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:18",
+      "Activity": 6,
+      "Steps": 21,
+      "HR": "92.42857142857144",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:19",
+      "Activity": 6,
+      "Steps": 15,
+      "HR": "97.9375",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:20",
+      "Activity": 6,
+      "Steps": 23,
+      "HR": "93.89583333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:21",
+      "Activity": 6,
+      "Steps": 15,
+      "HR": "95.10416666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:22",
+      "Activity": 6,
+      "Steps": 10,
+      "HR": "93.52",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:23",
+      "Activity": 6,
+      "Steps": 1,
+      "HR": "89.76923076923077",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:24",
+      "Activity": 6,
+      "Steps": 0,
+      "HR": "92.66666666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:25",
+      "Activity": 6,
+      "Steps": 12,
+      "HR": "101.70833333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:26",
+      "Activity": 6,
+      "Steps": 19,
+      "HR": "101.3125",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:27",
+      "Activity": 6,
+      "Steps": 21,
+      "HR": "104.35416666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:28",
+      "Activity": 6,
+      "Steps": 13,
+      "HR": "97.0754716981132",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:29",
+      "Activity": 6,
+      "Steps": 19,
+      "HR": "124.95918367346938",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:30",
+      "Activity": 6,
+      "Steps": 20,
+      "HR": "104.3191489361702",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:45",
+      "Activity": 10,
+      "Steps": 3,
+      "HR": "98.6346153846154",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:46",
+      "Activity": 10,
+      "Steps": 17,
+      "HR": "93.72916666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:47",
+      "Activity": 10,
+      "Steps": 13,
+      "HR": "98.08333333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:48",
+      "Activity": 10,
+      "Steps": 3,
+      "HR": "93.25",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:49",
+      "Activity": 10,
+      "Steps": 5,
+      "HR": "92.47916666666669",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:50",
+      "Activity": 6,
+      "Steps": 18,
+      "HR": "100.83018867924528",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:51",
+      "Activity": 6,
+      "Steps": 7,
+      "HR": "96.85714285714286",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:52",
+      "Activity": 6,
+      "Steps": 14,
+      "HR": "102.15789473684212",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:53",
+      "Activity": 6,
+      "Steps": 14,
+      "HR": "105.375",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:54",
+      "Activity": 6,
+      "Steps": 14,
+      "HR": "92.62962962962963",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:55",
+      "Activity": 6,
+      "Steps": 26,
+      "HR": "101.95833333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:56",
+      "Activity": 6,
+      "Steps": 20,
+      "HR": "100.52083333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:57",
+      "Activity": 6,
+      "Steps": 15,
+      "HR": "103.125",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:58",
+      "Activity": 6,
+      "Steps": 22,
+      "HR": "100.9375",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:59",
+      "Activity": 6,
+      "Steps": 16,
+      "HR": "102.41176470588236",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:00",
+      "Activity": 6,
+      "Steps": 8,
+      "HR": "99.94117647058825",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:01",
+      "Activity": 6,
+      "Steps": 3,
+      "HR": "97.375",
+      "Inclinometer": 3
+    },
+    {
+      "time": "22:02",
+      "Activity": 6,
+      "Steps": 5,
+      "HR": "97.12765957446808",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:03",
+      "Activity": 6,
+      "Steps": 5,
+      "HR": "99.46808510638296",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:04",
+      "Activity": 6,
+      "Steps": 2,
+      "HR": "100.77083333333331",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:05",
+      "Activity": 6,
+      "Steps": 3,
+      "HR": "96.66666666666669",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:06",
+      "Activity": 6,
+      "Steps": 9,
+      "HR": "94.8125",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:07",
+      "Activity": 6,
+      "Steps": 17,
+      "HR": "100.97916666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:08",
+      "Activity": 6,
+      "Steps": 4,
+      "HR": "91.625",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:09",
+      "Activity": 6,
+      "Steps": 2,
+      "HR": "90.14583333333331",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:10",
+      "Activity": 6,
+      "Steps": 3,
+      "HR": "89.52941176470588",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:11",
+      "Activity": 6,
+      "Steps": 1,
+      "HR": "90.68627450980392",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:12",
+      "Activity": 6,
+      "Steps": 0,
+      "HR": "91.58333333333331",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:13",
+      "Activity": 6,
+      "Steps": 6,
+      "HR": "85.5",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:14",
+      "Activity": 6,
+      "Steps": 14,
+      "HR": "101.33333333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:15",
+      "Activity": 6,
+      "Steps": 4,
+      "HR": "99.54",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:16",
+      "Activity": 6,
+      "Steps": 5,
+      "HR": "93.8125",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:17",
+      "Activity": 6,
+      "Steps": 3,
+      "HR": "92.39473684210526",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:18",
+      "Activity": 6,
+      "Steps": 14,
+      "HR": "87.67924528301887",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:19",
+      "Activity": 6,
+      "Steps": 18,
+      "HR": "89.91836734693878",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:20",
+      "Activity": 10,
+      "Steps": 13,
+      "HR": "95.29166666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:21",
+      "Activity": 10,
+      "Steps": 2,
+      "HR": "86.12765957446808",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:22",
+      "Activity": 10,
+      "Steps": 0,
+      "HR": "89.10416666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:23",
+      "Activity": 10,
+      "Steps": 1,
+      "HR": "92.34",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:24",
+      "Activity": 10,
+      "Steps": 2,
+      "HR": "94.32692307692308",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:25",
+      "Activity": 10,
+      "Steps": 0,
+      "HR": "92.70833333333331",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:50",
+      "Activity": 9,
+      "Steps": 14,
+      "HR": "96.5744680851064",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:51",
+      "Activity": 9,
+      "Steps": 18,
+      "HR": "102.10416666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:52",
+      "Activity": 9,
+      "Steps": 3,
+      "HR": "98.58333333333331",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:53",
+      "Activity": 9,
+      "Steps": 4,
+      "HR": "94.29166666666669",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:54",
+      "Activity": 9,
+      "Steps": 5,
+      "HR": "96.71153846153848",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:55",
+      "Activity": 10,
+      "Steps": 8,
+      "HR": "96.48979591836736",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:56",
+      "Activity": 10,
+      "Steps": 5,
+      "HR": "91.47916666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:57",
+      "Activity": 10,
+      "Steps": 7,
+      "HR": "93.35416666666669",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:58",
+      "Activity": 10,
+      "Steps": 7,
+      "HR": "89.64583333333333",
+      "Inclinometer": 0
+    },
+    {
+      "time": "22:59",
+      "Activity": 10,
+      "Steps": 3,
+      "HR": "91.06122448979592",
+      "Inclinometer": 2
+    },
+    {
+      "time": "23:00",
+      "Activity": 10,
+      "Steps": 5,
+      "HR": "91.32075471698111",
+      "Inclinometer": 2
+    },
+    {
+      "time": "23:30",
+      "Activity": 10,
+      "Steps": 14,
+      "HR": "87.95833333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "23:31",
+      "Activity": 10,
+      "Steps": 6,
+      "HR": "87.52083333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "23:32",
+      "Activity": 10,
+      "Steps": 0,
+      "HR": "85.70833333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "23:33",
+      "Activity": 10,
+      "Steps": 8,
+      "HR": "93.0",
+      "Inclinometer": 1
+    },
+    {
+      "time": "23:34",
+      "Activity": 10,
+      "Steps": 2,
+      "HR": "88.30188679245283",
+      "Inclinometer": 2
+    },
+    {
+      "time": "23:35",
+      "Activity": 10,
+      "Steps": 0,
+      "HR": "83.91836734693878",
+      "Inclinometer": 2
+    },
+    {
+      "time": "23:45",
+      "Activity": 4,
+      "Steps": 1,
+      "HR": "88.41509433962264",
+      "Inclinometer": 2
+    },
+    {
+      "time": "23:46",
+      "Activity": 4,
+      "Steps": 0,
+      "HR": "86.9795918367347",
+      "Inclinometer": 2
+    },
+    {
+      "time": "23:47",
+      "Activity": 4,
+      "Steps": 0,
+      "HR": "89.8125",
+      "Inclinometer": 2
+    },
+    {
+      "time": "23:48",
+      "Activity": 4,
+      "Steps": 0,
+      "HR": "88.1842105263158",
+      "Inclinometer": 2
+    },
+    {
+      "time": "23:49",
+      "Activity": 4,
+      "Steps": 2,
+      "HR": "92.05660377358492",
+      "Inclinometer": 2
+    },
+    {
+      "time": "23:50",
+      "Activity": 3,
+      "Steps": 6,
+      "HR": "93.85416666666669",
+      "Inclinometer": 2
+    },
+    {
+      "time": "23:51",
+      "Activity": 3,
+      "Steps": 5,
+      "HR": "92.14583333333331",
+      "Inclinometer": 2
+    },
+    {
+      "time": "23:52",
+      "Activity": 3,
+      "Steps": 3,
+      "HR": "90.875",
+      "Inclinometer": 2
+    },
+    {
+      "time": "23:53",
+      "Activity": 3,
+      "Steps": 3,
+      "HR": "89.52083333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "23:54",
+      "Activity": 3,
+      "Steps": 4,
+      "HR": "90.52941176470588",
+      "Inclinometer": 2
+    },
+    {
+      "time": "23:55",
+      "Activity": 3,
+      "Steps": 13,
+      "HR": "86.3529411764706",
+      "Inclinometer": 1
+    },
+    {
+      "time": "00:25",
+      "Activity": 1,
+      "Steps": 7,
+      "HR": "92.08163265306122",
+      "Inclinometer": 2
+    },
+    {
+      "time": "00:26",
+      "Activity": 1,
+      "Steps": 2,
+      "HR": "82.60416666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "00:27",
+      "Activity": 1,
+      "Steps": 24,
+      "HR": "93.1875",
+      "Inclinometer": 1
+    },
+    {
+      "time": "00:28",
+      "Activity": 1,
+      "Steps": 24,
+      "HR": "96.875",
+      "Inclinometer": 1
+    },
+    {
+      "time": "00:29",
+      "Activity": 1,
+      "Steps": 6,
+      "HR": "87.36",
+      "Inclinometer": 3
+    },
+    {
+      "time": "00:30",
+      "Activity": 1,
+      "Steps": 23,
+      "HR": "91.76923076923076",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:20",
+      "Activity": 3,
+      "Steps": 44,
+      "HR": "109.5",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:21",
+      "Activity": 3,
+      "Steps": 45,
+      "HR": "111.3191489361702",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:22",
+      "Activity": 3,
+      "Steps": 64,
+      "HR": "119.08333333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:23",
+      "Activity": 3,
+      "Steps": 49,
+      "HR": "116.02083333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:24",
+      "Activity": 3,
+      "Steps": 48,
+      "HR": "116.28846153846152",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:25",
+      "Activity": 3,
+      "Steps": 44,
+      "HR": "117.12",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:26",
+      "Activity": 3,
+      "Steps": 46,
+      "HR": "125.04166666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:27",
+      "Activity": 3,
+      "Steps": 46,
+      "HR": "129.72916666666666",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:28",
+      "Activity": 3,
+      "Steps": 40,
+      "HR": "129.8139534883721",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:29",
+      "Activity": 3,
+      "Steps": 40,
+      "HR": "133.89795918367346",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:30",
+      "Activity": 3,
+      "Steps": 38,
+      "HR": "131.25",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:31",
+      "Activity": 3,
+      "Steps": 49,
+      "HR": "134.66666666666666",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:32",
+      "Activity": 3,
+      "Steps": 18,
+      "HR": "118.58333333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:33",
+      "Activity": 3,
+      "Steps": 7,
+      "HR": "115.54",
+      "Inclinometer": 2
+    },
+    {
+      "time": "09:34",
+      "Activity": 3,
+      "Steps": 4,
+      "HR": "111.50980392156865",
+      "Inclinometer": 2
+    },
+    {
+      "time": "09:35",
+      "Activity": 3,
+      "Steps": 3,
+      "HR": "112.52083333333331",
+      "Inclinometer": 2
+    }
+  ],
+  "user2": [
+    {
+      "time": 0,
+      "Gender": "M",
+      "Weight": 95,
+      "Height": 183,
+      "Age": 27
+    },
+    {
+      "time": 1,
+      "In Bed Date": 2,
+      "In Bed Time": "00:50",
+      "Out Bed Date": 2,
+      "Out Bed Time": "06:22",
+      "Onset Date": 2,
+      "Onset Time": "00:54",
+      "Latency": 4,
+      "Efficiency": 73.49,
+      "Total Minutes in Bed": 332,
+      "Total Sleep Time (TST)": 244,
+      "Wake After Sleep Onset (WASO)": 84,
+      "Number of Awakenings": 18,
+      "Average Awakening Length": 4.67,
+      "Movement Index": 15.06,
+      "Fragmentation Index": 5.556,
+      "Sleep Fragmentation Index": 20.616
+    },
+    {
+      "time": 2,
+      "MEQ": 52,
+      "STAI1": 24,
+      "STAI2": 39,
+      "Pittsburgh": 7,
+      "Daily_stress": 26,
+      "BISBAS_bis": 26,
+      "BISBAS_reward": 21,
+      "BISBAS_drive": 12,
+      "BISBAS_fun": 6,
+      "panas_pos_10": 37,
+      "panas_pos_14": 32,
+      "panas_pos_18": 24,
+      "panas_pos_22": 27,
+      "panas_pos_9+1": 33,
+      "panas_neg_10": 11,
+      "panas_neg_14": 10,
+      "panas_neg_18": 16,
+      "panas_neg_22": 17,
+      "panas_neg_9+1": 18
+    },
+    {
+      "time": "10:03",
+      "Activity": 2,
+      "Steps": 8,
+      "HR": "66.95652173913044",
+      "Inclinometer": 1
+    },
+    {
+      "time": "10:04",
+      "Activity": 2,
+      "Steps": 18,
+      "HR": "77.06896551724138",
+      "Inclinometer": 1
+    },
+    {
+      "time": "10:05",
+      "Activity": 2,
+      "Steps": 9,
+      "HR": "76.3",
+      "Inclinometer": 0
+    },
+    {
+      "time": "10:06",
+      "Activity": 2,
+      "Steps": 11,
+      "HR": "70.53846153846153",
+      "Inclinometer": 1
+    },
+    {
+      "time": "10:07",
+      "Activity": 2,
+      "Steps": 10,
+      "HR": "68.22916666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "10:08",
+      "Activity": 2,
+      "Steps": 9,
+      "HR": "71.95833333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "10:09",
+      "Activity": 2,
+      "Steps": 2,
+      "HR": "68.39583333333333",
+      "Inclinometer": 0
+    },
+    {
+      "time": "10:10",
+      "Activity": 2,
+      "Steps": 2,
+      "HR": "66.39583333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "10:11",
+      "Activity": 2,
+      "Steps": 7,
+      "HR": "69.79245283018868",
+      "Inclinometer": 2
+    },
+    {
+      "time": "10:12",
+      "Activity": 2,
+      "Steps": 3,
+      "HR": "70.83673469387755",
+      "Inclinometer": 2
+    },
+    {
+      "time": "10:13",
+      "Activity": 2,
+      "Steps": 9,
+      "HR": "67.5625",
+      "Inclinometer": 2
+    },
+    {
+      "time": "10:14",
+      "Activity": 2,
+      "Steps": 8,
+      "HR": "70.47916666666667",
+      "Inclinometer": 3
+    },
+    {
+      "time": "10:15",
+      "Activity": 2,
+      "Steps": 0,
+      "HR": "65.4375",
+      "Inclinometer": 3
+    },
+    {
+      "time": "10:16",
+      "Activity": 2,
+      "Steps": 3,
+      "HR": "65.14285714285714",
+      "Inclinometer": 3
+    },
+    {
+      "time": "10:17",
+      "Activity": 2,
+      "Steps": 9,
+      "HR": "71.6923076923077",
+      "Inclinometer": 2
+    },
+    {
+      "time": "10:18",
+      "Activity": 2,
+      "Steps": 3,
+      "HR": "71.64583333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "10:19",
+      "Activity": 2,
+      "Steps": 3,
+      "HR": "66.79166666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "10:20",
+      "Activity": 2,
+      "Steps": 12,
+      "HR": "72.35416666666667",
+      "Inclinometer": 1
+    },
+    {
+      "time": "13:05",
+      "Activity": 6,
+      "Steps": 13,
+      "HR": "71.25",
+      "Inclinometer": 1
+    },
+    {
+      "time": "13:06",
+      "Activity": 6,
+      "Steps": 9,
+      "HR": "74.125",
+      "Inclinometer": 1
+    },
+    {
+      "time": "13:07",
+      "Activity": 6,
+      "Steps": 3,
+      "HR": "66.3125",
+      "Inclinometer": 2
+    },
+    {
+      "time": "13:08",
+      "Activity": 6,
+      "Steps": 8,
+      "HR": "75.75",
+      "Inclinometer": 2
+    },
+    {
+      "time": "13:09",
+      "Activity": 6,
+      "Steps": 50,
+      "HR": "92.94444444444444",
+      "Inclinometer": 1
+    },
+    {
+      "time": "13:10",
+      "Activity": 6,
+      "Steps": 10,
+      "HR": "84.3125",
+      "Inclinometer": 1
+    },
+    {
+      "time": "13:11",
+      "Activity": 6,
+      "Steps": 14,
+      "HR": "71.5625",
+      "Inclinometer": 1
+    },
+    {
+      "time": "13:12",
+      "Activity": 6,
+      "Steps": 7,
+      "HR": "75.41666666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "13:13",
+      "Activity": 6,
+      "Steps": 6,
+      "HR": "77.56521739130434",
+      "Inclinometer": 2
+    },
+    {
+      "time": "13:14",
+      "Activity": 6,
+      "Steps": 6,
+      "HR": "76.70588235294117",
+      "Inclinometer": 2
+    },
+    {
+      "time": "13:15",
+      "Activity": 6,
+      "Steps": 8,
+      "HR": "78.17647058823529",
+      "Inclinometer": 2
+    },
+    {
+      "time": "13:16",
+      "Activity": 6,
+      "Steps": 4,
+      "HR": "76.29166666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "13:17",
+      "Activity": 6,
+      "Steps": 0,
+      "HR": "74.83333333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "13:18",
+      "Activity": 6,
+      "Steps": 8,
+      "HR": "74.33333333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "13:19",
+      "Activity": 6,
+      "Steps": 6,
+      "HR": "77.85416666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "13:20",
+      "Activity": 6,
+      "Steps": 10,
+      "HR": "81.66666666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "13:21",
+      "Activity": 6,
+      "Steps": 23,
+      "HR": "79.6875",
+      "Inclinometer": 1
+    },
+    {
+      "time": "13:22",
+      "Activity": 6,
+      "Steps": 18,
+      "HR": "79.33333333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "13:23",
+      "Activity": 6,
+      "Steps": 19,
+      "HR": "79.0",
+      "Inclinometer": 1
+    },
+    {
+      "time": "13:24",
+      "Activity": 6,
+      "Steps": 1,
+      "HR": "73.08333333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "13:25",
+      "Activity": 6,
+      "Steps": 0,
+      "HR": "68.87234042553192",
+      "Inclinometer": 3
+    },
+    {
+      "time": "13:38",
+      "Activity": 9,
+      "Steps": 18,
+      "HR": "78.77083333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "13:39",
+      "Activity": 9,
+      "Steps": 0,
+      "HR": "78.10416666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "13:40",
+      "Activity": 9,
+      "Steps": 1,
+      "HR": "93.0377358490566",
+      "Inclinometer": 1
+    },
+    {
+      "time": "13:55",
+      "Activity": 2,
+      "Steps": 7,
+      "HR": "74.98076923076923",
+      "Inclinometer": 1
+    },
+    {
+      "time": "13:56",
+      "Activity": 2,
+      "Steps": 0,
+      "HR": "70.45833333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "13:57",
+      "Activity": 2,
+      "Steps": 10,
+      "HR": "74.54166666666667",
+      "Inclinometer": 1
+    },
+    {
+      "time": "13:58",
+      "Activity": 2,
+      "Steps": 7,
+      "HR": "75.5625",
+      "Inclinometer": 2
+    },
+    {
+      "time": "13:59",
+      "Activity": 2,
+      "Steps": 22,
+      "HR": "92.47916666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "14:00",
+      "Activity": 2,
+      "Steps": 30,
+      "HR": "95.28301886792453",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:00",
+      "Activity": 3,
+      "Steps": 3,
+      "HR": "75.04166666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:01",
+      "Activity": 3,
+      "Steps": 3,
+      "HR": "76.15384615384616",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:02",
+      "Activity": 3,
+      "Steps": 7,
+      "HR": "77.02",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:03",
+      "Activity": 3,
+      "Steps": 12,
+      "HR": "80.58333333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:04",
+      "Activity": 3,
+      "Steps": 10,
+      "HR": "79.25",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:05",
+      "Activity": 3,
+      "Steps": 10,
+      "HR": "80.89583333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:06",
+      "Activity": 3,
+      "Steps": 12,
+      "HR": "75.9375",
+      "Inclinometer": 2
+    },
+    {
+      "time": "15:07",
+      "Activity": 3,
+      "Steps": 48,
+      "HR": "94.24528301886792",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:08",
+      "Activity": 3,
+      "Steps": 12,
+      "HR": "82.41666666666667",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:09",
+      "Activity": 3,
+      "Steps": 52,
+      "HR": "96.33333333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "15:10",
+      "Activity": 3,
+      "Steps": 15,
+      "HR": "89.45833333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:28",
+      "Activity": 4,
+      "Steps": 43,
+      "HR": "104.85416666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:29",
+      "Activity": 4,
+      "Steps": 53,
+      "HR": "114.1875",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:30",
+      "Activity": 4,
+      "Steps": 52,
+      "HR": "103.79166666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:31",
+      "Activity": 4,
+      "Steps": 49,
+      "HR": "117.3125",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:32",
+      "Activity": 4,
+      "Steps": 60,
+      "HR": "143.0185185185185",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:33",
+      "Activity": 4,
+      "Steps": 54,
+      "HR": "146.91666666666666",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:34",
+      "Activity": 4,
+      "Steps": 55,
+      "HR": "131.8125",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:35",
+      "Activity": 4,
+      "Steps": 52,
+      "HR": "130.08333333333334",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:36",
+      "Activity": 4,
+      "Steps": 74,
+      "HR": "156.04255319148936",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:37",
+      "Activity": 4,
+      "Steps": 108,
+      "HR": "148.85714285714286",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:38",
+      "Activity": 4,
+      "Steps": 92,
+      "HR": "104.25581395348836",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:39",
+      "Activity": 4,
+      "Steps": 95,
+      "HR": "124.34883720930232",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:40",
+      "Activity": 4,
+      "Steps": 94,
+      "HR": "108.25",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:41",
+      "Activity": 4,
+      "Steps": 70,
+      "HR": "136.21875",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:42",
+      "Activity": 4,
+      "Steps": 97,
+      "HR": "119.0",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:43",
+      "Activity": 4,
+      "Steps": 53,
+      "HR": "127.84210526315788",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:44",
+      "Activity": 4,
+      "Steps": 16,
+      "HR": "129.0",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:45",
+      "Activity": 4,
+      "Steps": 18,
+      "HR": "120.97560975609755",
+      "Inclinometer": 1
+    },
+    {
+      "time": "17:55",
+      "Activity": 2,
+      "Steps": 0,
+      "HR": "80.54166666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "17:56",
+      "Activity": 2,
+      "Steps": 2,
+      "HR": "78.2127659574468",
+      "Inclinometer": 2
+    },
+    {
+      "time": "17:57",
+      "Activity": 2,
+      "Steps": 1,
+      "HR": "78.60416666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "17:58",
+      "Activity": 2,
+      "Steps": 7,
+      "HR": "79.02222222222223",
+      "Inclinometer": 2
+    },
+    {
+      "time": "17:59",
+      "Activity": 2,
+      "Steps": 6,
+      "HR": "80.86",
+      "Inclinometer": 3
+    },
+    {
+      "time": "18:00",
+      "Activity": 7,
+      "Steps": 4,
+      "HR": "80.5",
+      "Inclinometer": 3
+    },
+    {
+      "time": "18:01",
+      "Activity": 7,
+      "Steps": 17,
+      "HR": "86.6875",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:02",
+      "Activity": 7,
+      "Steps": 7,
+      "HR": "88.1875",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:03",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "76.34693877551021",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:04",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "74.24528301886792",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:05",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "74.45833333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:06",
+      "Activity": 7,
+      "Steps": 2,
+      "HR": "76.6875",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:07",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "76.91666666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:08",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "75.08333333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:09",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "72.0",
+      "Inclinometer": 0
+    },
+    {
+      "time": "18:10",
+      "Activity": 7,
+      "Steps": 19,
+      "HR": "87.46",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:11",
+      "Activity": 7,
+      "Steps": 20,
+      "HR": "85.3125",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:12",
+      "Activity": 7,
+      "Steps": 4,
+      "HR": "76.47916666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:13",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "74.33333333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:14",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "75.53061224489795",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:15",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "76.45283018867924",
+      "Inclinometer": 3
+    },
+    {
+      "time": "18:16",
+      "Activity": 7,
+      "Steps": 4,
+      "HR": "82.10416666666667",
+      "Inclinometer": 3
+    },
+    {
+      "time": "18:17",
+      "Activity": 7,
+      "Steps": 4,
+      "HR": "70.8125",
+      "Inclinometer": 3
+    },
+    {
+      "time": "18:18",
+      "Activity": 7,
+      "Steps": 6,
+      "HR": "78.41666666666667",
+      "Inclinometer": 3
+    },
+    {
+      "time": "18:19",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "73.9375",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:20",
+      "Activity": 7,
+      "Steps": 3,
+      "HR": "78.1923076923077",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:21",
+      "Activity": 7,
+      "Steps": 5,
+      "HR": "75.2",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:22",
+      "Activity": 7,
+      "Steps": 2,
+      "HR": "79.83333333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:23",
+      "Activity": 7,
+      "Steps": 2,
+      "HR": "73.0625",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:24",
+      "Activity": 7,
+      "Steps": 5,
+      "HR": "73.625",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:25",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "72.87755102040816",
+      "Inclinometer": 0
+    },
+    {
+      "time": "18:26",
+      "Activity": 7,
+      "Steps": 6,
+      "HR": "72.05660377358491",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:27",
+      "Activity": 7,
+      "Steps": 2,
+      "HR": "72.375",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:28",
+      "Activity": 7,
+      "Steps": 30,
+      "HR": "103.04444444444444",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:29",
+      "Activity": 7,
+      "Steps": 44,
+      "HR": "108.16666666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:30",
+      "Activity": 3,
+      "Steps": 30,
+      "HR": "104.0",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:31",
+      "Activity": 3,
+      "Steps": 47,
+      "HR": "113.22641509433964",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:32",
+      "Activity": 3,
+      "Steps": 46,
+      "HR": "111.0625",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:33",
+      "Activity": 3,
+      "Steps": 44,
+      "HR": "112.375",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:34",
+      "Activity": 3,
+      "Steps": 39,
+      "HR": "108.52083333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:35",
+      "Activity": 3,
+      "Steps": 46,
+      "HR": "106.08510638297872",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:36",
+      "Activity": 3,
+      "Steps": 32,
+      "HR": "104.71153846153848",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:37",
+      "Activity": 3,
+      "Steps": 27,
+      "HR": "94.42857142857144",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:38",
+      "Activity": 3,
+      "Steps": 14,
+      "HR": "95.66666666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:39",
+      "Activity": 3,
+      "Steps": 34,
+      "HR": "93.0",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:40",
+      "Activity": 3,
+      "Steps": 31,
+      "HR": "96.95833333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:41",
+      "Activity": 3,
+      "Steps": 27,
+      "HR": "92.44897959183672",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:42",
+      "Activity": 3,
+      "Steps": 34,
+      "HR": "92.79245283018868",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:43",
+      "Activity": 3,
+      "Steps": 20,
+      "HR": "92.97916666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:44",
+      "Activity": 3,
+      "Steps": 10,
+      "HR": "95.0",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:45",
+      "Activity": 3,
+      "Steps": 15,
+      "HR": "92.0625",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:46",
+      "Activity": 3,
+      "Steps": 1,
+      "HR": "87.35416666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:47",
+      "Activity": 3,
+      "Steps": 2,
+      "HR": "87.71153846153847",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:48",
+      "Activity": 3,
+      "Steps": 7,
+      "HR": "87.0",
+      "Inclinometer": 2
+    },
+    {
+      "time": "18:49",
+      "Activity": 3,
+      "Steps": 49,
+      "HR": "100.66666666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:50",
+      "Activity": 3,
+      "Steps": 31,
+      "HR": "104.5625",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:51",
+      "Activity": 3,
+      "Steps": 25,
+      "HR": "98.4090909090909",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:52",
+      "Activity": 3,
+      "Steps": 50,
+      "HR": "97.32692307692308",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:53",
+      "Activity": 3,
+      "Steps": 34,
+      "HR": "101.79166666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:54",
+      "Activity": 3,
+      "Steps": 27,
+      "HR": "92.88888888888889",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:55",
+      "Activity": 3,
+      "Steps": 35,
+      "HR": "95.60416666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:56",
+      "Activity": 3,
+      "Steps": 34,
+      "HR": "99.72916666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:57",
+      "Activity": 3,
+      "Steps": 21,
+      "HR": "98.63265306122447",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:58",
+      "Activity": 3,
+      "Steps": 36,
+      "HR": "89.33962264150944",
+      "Inclinometer": 1
+    },
+    {
+      "time": "18:59",
+      "Activity": 3,
+      "Steps": 28,
+      "HR": "97.9375",
+      "Inclinometer": 1
+    },
+    {
+      "time": "19:00",
+      "Activity": 3,
+      "Steps": 38,
+      "HR": "90.125",
+      "Inclinometer": 1
+    },
+    {
+      "time": "19:01",
+      "Activity": 3,
+      "Steps": 45,
+      "HR": "94.22916666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "19:02",
+      "Activity": 3,
+      "Steps": 36,
+      "HR": "98.39583333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "19:03",
+      "Activity": 3,
+      "Steps": 54,
+      "HR": "95.0",
+      "Inclinometer": 1
+    },
+    {
+      "time": "19:04",
+      "Activity": 3,
+      "Steps": 15,
+      "HR": "97.28",
+      "Inclinometer": 3
+    },
+    {
+      "time": "19:05",
+      "Activity": 3,
+      "Steps": 4,
+      "HR": "79.35416666666667",
+      "Inclinometer": 3
+    },
+    {
+      "time": "19:06",
+      "Activity": 3,
+      "Steps": 30,
+      "HR": "85.4375",
+      "Inclinometer": 1
+    },
+    {
+      "time": "19:07",
+      "Activity": 3,
+      "Steps": 25,
+      "HR": "94.60416666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "19:08",
+      "Activity": 3,
+      "Steps": 26,
+      "HR": "90.95918367346938",
+      "Inclinometer": 1
+    },
+    {
+      "time": "19:09",
+      "Activity": 3,
+      "Steps": 25,
+      "HR": "84.49056603773585",
+      "Inclinometer": 1
+    },
+    {
+      "time": "19:10",
+      "Activity": 3,
+      "Steps": 24,
+      "HR": "87.8125",
+      "Inclinometer": 1
+    },
+    {
+      "time": "19:11",
+      "Activity": 3,
+      "Steps": 27,
+      "HR": "87.89583333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "19:12",
+      "Activity": 3,
+      "Steps": 31,
+      "HR": "90.34782608695652",
+      "Inclinometer": 1
+    },
+    {
+      "time": "19:13",
+      "Activity": 3,
+      "Steps": 6,
+      "HR": "90.89583333333331",
+      "Inclinometer": 3
+    },
+    {
+      "time": "19:14",
+      "Activity": 3,
+      "Steps": 0,
+      "HR": "83.46153846153847",
+      "Inclinometer": 3
+    },
+    {
+      "time": "19:15",
+      "Activity": 3,
+      "Steps": 28,
+      "HR": "88.5",
+      "Inclinometer": 1
+    },
+    {
+      "time": "19:16",
+      "Activity": 3,
+      "Steps": 32,
+      "HR": "99.0625",
+      "Inclinometer": 1
+    },
+    {
+      "time": "19:17",
+      "Activity": 3,
+      "Steps": 4,
+      "HR": "92.71698113207547",
+      "Inclinometer": 3
+    },
+    {
+      "time": "19:18",
+      "Activity": 3,
+      "Steps": 1,
+      "HR": "86.87755102040816",
+      "Inclinometer": 3
+    },
+    {
+      "time": "19:19",
+      "Activity": 3,
+      "Steps": 1,
+      "HR": "89.14583333333333",
+      "Inclinometer": 3
+    },
+    {
+      "time": "19:20",
+      "Activity": 3,
+      "Steps": 1,
+      "HR": "88.4375",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:21",
+      "Activity": 3,
+      "Steps": 16,
+      "HR": "92.6875",
+      "Inclinometer": 2
+    },
+    {
+      "time": "19:22",
+      "Activity": 3,
+      "Steps": 50,
+      "HR": "97.42",
+      "Inclinometer": 1
+    },
+    {
+      "time": "19:23",
+      "Activity": 3,
+      "Steps": 44,
+      "HR": "98.6153846153846",
+      "Inclinometer": 1
+    },
+    {
+      "time": "19:24",
+      "Activity": 3,
+      "Steps": 33,
+      "HR": "92.22222222222224",
+      "Inclinometer": 1
+    },
+    {
+      "time": "19:25",
+      "Activity": 3,
+      "Steps": 60,
+      "HR": "95.66666666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "19:26",
+      "Activity": 3,
+      "Steps": 85,
+      "HR": "100.83018867924528",
+      "Inclinometer": 1
+    },
+    {
+      "time": "19:27",
+      "Activity": 3,
+      "Steps": 49,
+      "HR": "104.78260869565216",
+      "Inclinometer": 1
+    },
+    {
+      "time": "19:28",
+      "Activity": 3,
+      "Steps": 28,
+      "HR": "109.87234042553192",
+      "Inclinometer": 1
+    },
+    {
+      "time": "19:29",
+      "Activity": 3,
+      "Steps": 22,
+      "HR": "121.16666666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "19:30",
+      "Activity": 3,
+      "Steps": 16,
+      "HR": "97.33333333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:06",
+      "Activity": 3,
+      "Steps": 23,
+      "HR": "91.75",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:07",
+      "Activity": 3,
+      "Steps": 0,
+      "HR": "89.27272727272727",
+      "Inclinometer": 0
+    },
+    {
+      "time": "20:17",
+      "Activity": 3,
+      "Steps": 1,
+      "HR": "87.76",
+      "Inclinometer": 3
+    },
+    {
+      "time": "20:30",
+      "Activity": 6,
+      "Steps": 11,
+      "HR": "77.60416666666667",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:31",
+      "Activity": 6,
+      "Steps": 8,
+      "HR": "78.88235294117646",
+      "Inclinometer": 2
+    },
+    {
+      "time": "20:32",
+      "Activity": 6,
+      "Steps": 18,
+      "HR": "80.57142857142857",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:33",
+      "Activity": 6,
+      "Steps": 12,
+      "HR": "78.0",
+      "Inclinometer": 2
+    },
+    {
+      "time": "20:34",
+      "Activity": 6,
+      "Steps": 18,
+      "HR": "79.58333333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:35",
+      "Activity": 6,
+      "Steps": 13,
+      "HR": "82.38297872340425",
+      "Inclinometer": 2
+    },
+    {
+      "time": "20:36",
+      "Activity": 6,
+      "Steps": 2,
+      "HR": "77.76470588235294",
+      "Inclinometer": 2
+    },
+    {
+      "time": "20:37",
+      "Activity": 6,
+      "Steps": 4,
+      "HR": "78.25490196078431",
+      "Inclinometer": 2
+    },
+    {
+      "time": "20:38",
+      "Activity": 6,
+      "Steps": 10,
+      "HR": "81.02083333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "20:39",
+      "Activity": 6,
+      "Steps": 3,
+      "HR": "79.41666666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "20:40",
+      "Activity": 6,
+      "Steps": 14,
+      "HR": "83.29166666666667",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:41",
+      "Activity": 6,
+      "Steps": 14,
+      "HR": "80.0625",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:42",
+      "Activity": 6,
+      "Steps": 5,
+      "HR": "81.88888888888889",
+      "Inclinometer": 2
+    },
+    {
+      "time": "20:43",
+      "Activity": 6,
+      "Steps": 7,
+      "HR": "79.41666666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "20:44",
+      "Activity": 6,
+      "Steps": 17,
+      "HR": "79.6",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:45",
+      "Activity": 6,
+      "Steps": 17,
+      "HR": "81.14583333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:46",
+      "Activity": 6,
+      "Steps": 9,
+      "HR": "84.625",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:47",
+      "Activity": 6,
+      "Steps": 6,
+      "HR": "71.98039215686275",
+      "Inclinometer": 2
+    },
+    {
+      "time": "20:48",
+      "Activity": 6,
+      "Steps": 3,
+      "HR": "74.66666666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "20:49",
+      "Activity": 6,
+      "Steps": 7,
+      "HR": "73.25",
+      "Inclinometer": 2
+    },
+    {
+      "time": "20:50",
+      "Activity": 6,
+      "Steps": 10,
+      "HR": "77.08333333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "20:51",
+      "Activity": 6,
+      "Steps": 15,
+      "HR": "79.8125",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:52",
+      "Activity": 6,
+      "Steps": 9,
+      "HR": "86.43478260869566",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:53",
+      "Activity": 6,
+      "Steps": 18,
+      "HR": "87.3409090909091",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:54",
+      "Activity": 6,
+      "Steps": 18,
+      "HR": "84.12820512820512",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:55",
+      "Activity": 6,
+      "Steps": 18,
+      "HR": "88.73076923076923",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:56",
+      "Activity": 6,
+      "Steps": 14,
+      "HR": "79.9795918367347",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:57",
+      "Activity": 6,
+      "Steps": 12,
+      "HR": "108.33333333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "20:58",
+      "Activity": 6,
+      "Steps": 5,
+      "HR": "72.32432432432432",
+      "Inclinometer": 2
+    },
+    {
+      "time": "20:59",
+      "Activity": 6,
+      "Steps": 9,
+      "HR": "74.875",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:00",
+      "Activity": 7,
+      "Steps": 10,
+      "HR": "76.10204081632654",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:01",
+      "Activity": 7,
+      "Steps": 10,
+      "HR": "79.16666666666667",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:02",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "75.0",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:03",
+      "Activity": 7,
+      "Steps": 3,
+      "HR": "72.375",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:04",
+      "Activity": 7,
+      "Steps": 9,
+      "HR": "77.47916666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:05",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "77.64583333333333",
+      "Inclinometer": 3
+    },
+    {
+      "time": "21:06",
+      "Activity": 7,
+      "Steps": 2,
+      "HR": "77.51923076923077",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:07",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "69.02",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:08",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "70.85416666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:09",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "69.4375",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:10",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "70.0",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:11",
+      "Activity": 7,
+      "Steps": 9,
+      "HR": "69.85714285714286",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:12",
+      "Activity": 7,
+      "Steps": 15,
+      "HR": "73.94117647058823",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:13",
+      "Activity": 7,
+      "Steps": 8,
+      "HR": "72.3125",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:14",
+      "Activity": 7,
+      "Steps": 4,
+      "HR": "73.9",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:15",
+      "Activity": 7,
+      "Steps": 13,
+      "HR": "71.92307692307692",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:24",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "67.85185185185185",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:25",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "69.3",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:26",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "69.625",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:27",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "71.85416666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:28",
+      "Activity": 7,
+      "Steps": 3,
+      "HR": "70.04166666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:33",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "72.45454545454545",
+      "Inclinometer": 3
+    },
+    {
+      "time": "21:34",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "71.3125",
+      "Inclinometer": 3
+    },
+    {
+      "time": "21:35",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "72.12244897959184",
+      "Inclinometer": 3
+    },
+    {
+      "time": "21:36",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "72.43396226415095",
+      "Inclinometer": 3
+    },
+    {
+      "time": "21:37",
+      "Activity": 7,
+      "Steps": 2,
+      "HR": "74.02083333333333",
+      "Inclinometer": 3
+    },
+    {
+      "time": "21:38",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "75.54166666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:39",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "75.79166666666667",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:40",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "75.30434782608695",
+      "Inclinometer": 3
+    },
+    {
+      "time": "21:41",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "74.4423076923077",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:42",
+      "Activity": 7,
+      "Steps": 7,
+      "HR": "73.97826086956522",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:43",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "70.9375",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:44",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "73.0625",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:45",
+      "Activity": 7,
+      "Steps": 9,
+      "HR": "76.58333333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:46",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "71.42857142857143",
+      "Inclinometer": 3
+    },
+    {
+      "time": "21:47",
+      "Activity": 7,
+      "Steps": 2,
+      "HR": "72.11320754716981",
+      "Inclinometer": 3
+    },
+    {
+      "time": "21:48",
+      "Activity": 7,
+      "Steps": 3,
+      "HR": "78.3529411764706",
+      "Inclinometer": 3
+    },
+    {
+      "time": "21:49",
+      "Activity": 7,
+      "Steps": 21,
+      "HR": "88.17391304347827",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:51",
+      "Activity": 7,
+      "Steps": 7,
+      "HR": "124.65",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:52",
+      "Activity": 7,
+      "Steps": 6,
+      "HR": "78.77083333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:53",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "69.64583333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:54",
+      "Activity": 7,
+      "Steps": 2,
+      "HR": "69.06122448979592",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:55",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "72.13207547169812",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:56",
+      "Activity": 2,
+      "Steps": 10,
+      "HR": "74.83333333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "21:57",
+      "Activity": 2,
+      "Steps": 3,
+      "HR": "75.0",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:58",
+      "Activity": 2,
+      "Steps": 3,
+      "HR": "74.35416666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "21:59",
+      "Activity": 2,
+      "Steps": 3,
+      "HR": "74.27659574468085",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:00",
+      "Activity": 7,
+      "Steps": 20,
+      "HR": "84.40384615384616",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:01",
+      "Activity": 7,
+      "Steps": 13,
+      "HR": "76.74",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:02",
+      "Activity": 7,
+      "Steps": 2,
+      "HR": "73.66666666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:03",
+      "Activity": 7,
+      "Steps": 2,
+      "HR": "73.14583333333333",
+      "Inclinometer": 3
+    },
+    {
+      "time": "22:04",
+      "Activity": 7,
+      "Steps": 2,
+      "HR": "75.33333333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:05",
+      "Activity": 7,
+      "Steps": 21,
+      "HR": "78.63461538461539",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:06",
+      "Activity": 7,
+      "Steps": 20,
+      "HR": "93.24489795918367",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:07",
+      "Activity": 7,
+      "Steps": 12,
+      "HR": "79.22916666666667",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:08",
+      "Activity": 7,
+      "Steps": 5,
+      "HR": "76.97916666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:09",
+      "Activity": 7,
+      "Steps": 22,
+      "HR": "91.8095238095238",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:10",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "71.66",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:11",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "70.07692307692308",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:12",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "70.95744680851064",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:13",
+      "Activity": 7,
+      "Steps": 6,
+      "HR": "75.9375",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:14",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "72.92592592592592",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:15",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "71.125",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:16",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "69.52083333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:17",
+      "Activity": 7,
+      "Steps": 4,
+      "HR": "72.10416666666667",
+      "Inclinometer": 0
+    },
+    {
+      "time": "22:18",
+      "Activity": 7,
+      "Steps": 5,
+      "HR": "73.58333333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:19",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "71.43137254901961",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:20",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "69.37254901960785",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:21",
+      "Activity": 7,
+      "Steps": 3,
+      "HR": "70.52083333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:22",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "71.47916666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:23",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "70.77083333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:24",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "71.77083333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:25",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "69.74074074074075",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:26",
+      "Activity": 7,
+      "Steps": 4,
+      "HR": "73.77083333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:27",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "68.54166666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:28",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "71.04166666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:29",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "70.89583333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:30",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "70.8913043478261",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:31",
+      "Activity": 7,
+      "Steps": 2,
+      "HR": "68.98039215686275",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:32",
+      "Activity": 7,
+      "Steps": 2,
+      "HR": "70.02083333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:33",
+      "Activity": 7,
+      "Steps": 3,
+      "HR": "72.70833333333333",
+      "Inclinometer": 0
+    },
+    {
+      "time": "22:34",
+      "Activity": 7,
+      "Steps": 2,
+      "HR": "71.76595744680851",
+      "Inclinometer": 0
+    },
+    {
+      "time": "22:35",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "73.77083333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:36",
+      "Activity": 7,
+      "Steps": 5,
+      "HR": "72.11538461538461",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:37",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "73.6875",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:38",
+      "Activity": 7,
+      "Steps": 16,
+      "HR": "75.8",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:39",
+      "Activity": 7,
+      "Steps": 18,
+      "HR": "80.13333333333334",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:40",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "78.04166666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:41",
+      "Activity": 7,
+      "Steps": 4,
+      "HR": "75.09803921568627",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:42",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "74.96078431372548",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:43",
+      "Activity": 7,
+      "Steps": 9,
+      "HR": "77.66666666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:44",
+      "Activity": 7,
+      "Steps": 15,
+      "HR": "76.22916666666667",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:45",
+      "Activity": 7,
+      "Steps": 2,
+      "HR": "74.5",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:46",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "76.22916666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:47",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "75.98148148148148",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:48",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "76.95833333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:49",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "80.27083333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:50",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "78.45833333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "22:51",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "80.3125",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:52",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "77.96078431372548",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:53",
+      "Activity": 7,
+      "Steps": 9,
+      "HR": "87.5909090909091",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:57",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "73.45454545454545",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:58",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "74.5",
+      "Inclinometer": 1
+    },
+    {
+      "time": "22:59",
+      "Activity": 7,
+      "Steps": 2,
+      "HR": "74.28888888888889",
+      "Inclinometer": 1
+    },
+    {
+      "time": "23:00",
+      "Activity": 7,
+      "Steps": 18,
+      "HR": "76.86666666666666",
+      "Inclinometer": 1
+    },
+    {
+      "time": "23:01",
+      "Activity": 7,
+      "Steps": 7,
+      "HR": "59.89473684210526",
+      "Inclinometer": 1
+    },
+    {
+      "time": "23:02",
+      "Activity": 7,
+      "Steps": 16,
+      "HR": "81.68888888888888",
+      "Inclinometer": 1
+    },
+    {
+      "time": "23:03",
+      "Activity": 7,
+      "Steps": 3,
+      "HR": "69.34693877551021",
+      "Inclinometer": 1
+    },
+    {
+      "time": "23:04",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "77.28301886792453",
+      "Inclinometer": 2
+    },
+    {
+      "time": "23:05",
+      "Activity": 7,
+      "Steps": 2,
+      "HR": "69.45833333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "23:06",
+      "Activity": 7,
+      "Steps": 1,
+      "HR": "71.875",
+      "Inclinometer": 1
+    },
+    {
+      "time": "23:07",
+      "Activity": 7,
+      "Steps": 2,
+      "HR": "69.89583333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "23:08",
+      "Activity": 7,
+      "Steps": 5,
+      "HR": "74.70833333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "23:09",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "66.0576923076923",
+      "Inclinometer": 2
+    },
+    {
+      "time": "23:10",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "66.22",
+      "Inclinometer": 2
+    },
+    {
+      "time": "23:11",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "67.04166666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "23:12",
+      "Activity": 7,
+      "Steps": 3,
+      "HR": "68.4375",
+      "Inclinometer": 2
+    },
+    {
+      "time": "23:13",
+      "Activity": 7,
+      "Steps": 4,
+      "HR": "66.77083333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "23:14",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "66.34693877551021",
+      "Inclinometer": 2
+    },
+    {
+      "time": "23:15",
+      "Activity": 7,
+      "Steps": 0,
+      "HR": "67.9245283018868",
+      "Inclinometer": 2
+    },
+    {
+      "time": "00:00",
+      "Activity": 12,
+      "Steps": 13,
+      "HR": "67.54166666666667",
+      "Inclinometer": 1
+    },
+    {
+      "time": "00:01",
+      "Activity": 12,
+      "Steps": 18,
+      "HR": "79.31372549019608",
+      "Inclinometer": 1
+    },
+    {
+      "time": "00:02",
+      "Activity": 12,
+      "Steps": 8,
+      "HR": "77.07843137254902",
+      "Inclinometer": 1
+    },
+    {
+      "time": "00:03",
+      "Activity": 12,
+      "Steps": 8,
+      "HR": "74.60416666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "00:04",
+      "Activity": 12,
+      "Steps": 13,
+      "HR": "76.22916666666667",
+      "Inclinometer": 1
+    },
+    {
+      "time": "00:05",
+      "Activity": 12,
+      "Steps": 7,
+      "HR": "74.5625",
+      "Inclinometer": 1
+    },
+    {
+      "time": "00:06",
+      "Activity": 12,
+      "Steps": 6,
+      "HR": "78.70833333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "00:07",
+      "Activity": 12,
+      "Steps": 8,
+      "HR": "76.16666666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "00:08",
+      "Activity": 12,
+      "Steps": 10,
+      "HR": "77.10416666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "00:09",
+      "Activity": 12,
+      "Steps": 3,
+      "HR": "77.29166666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "00:10",
+      "Activity": 12,
+      "Steps": 5,
+      "HR": "75.77083333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "00:45",
+      "Activity": 1,
+      "Steps": 8,
+      "HR": "63.21568627450981",
+      "Inclinometer": 2
+    },
+    {
+      "time": "00:46",
+      "Activity": 1,
+      "Steps": 29,
+      "HR": "76.13725490196079",
+      "Inclinometer": 1
+    },
+    {
+      "time": "00:47",
+      "Activity": 0,
+      "Steps": 7,
+      "HR": "73.52272727272727",
+      "Inclinometer": 2
+    },
+    {
+      "time": "00:48",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "61.708333333333336",
+      "Inclinometer": 2
+    },
+    {
+      "time": "00:49",
+      "Activity": 0,
+      "Steps": 12,
+      "HR": "54.48484848484848",
+      "Inclinometer": 1
+    },
+    {
+      "time": "00:50",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "53.76190476190476",
+      "Inclinometer": 1
+    },
+    {
+      "time": "00:51",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.38095238095238",
+      "Inclinometer": 1
+    },
+    {
+      "time": "00:52",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.53658536585366",
+      "Inclinometer": 1
+    },
+    {
+      "time": "00:53",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.4375",
+      "Inclinometer": 0
+    },
+    {
+      "time": "00:54",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.1578947368421",
+      "Inclinometer": 0
+    },
+    {
+      "time": "00:55",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.8",
+      "Inclinometer": 0
+    },
+    {
+      "time": "00:56",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.1578947368421",
+      "Inclinometer": 0
+    },
+    {
+      "time": "00:57",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.75757575757576",
+      "Inclinometer": 0
+    },
+    {
+      "time": "00:58",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.69047619047619",
+      "Inclinometer": 0
+    },
+    {
+      "time": "00:59",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.26829268292683",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:00",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.88095238095238",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:01",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.41666666666666",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:02",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.84375",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:03",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.425",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:04",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.16216216216216",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:05",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.81818181818182",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:06",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.29268292682927",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:07",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.53846153846154",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:08",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.0",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:09",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.11627906976744",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:10",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.74193548387097",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:11",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.95555555555556",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:12",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.94594594594594",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:13",
+      "Activity": 0,
+      "Steps": 12,
+      "HR": "60.7872340425532",
+      "Inclinometer": 1
+    },
+    {
+      "time": "01:14",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "56.82608695652174",
+      "Inclinometer": 2
+    },
+    {
+      "time": "01:15",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "51.65909090909091",
+      "Inclinometer": 2
+    },
+    {
+      "time": "01:16",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "51.61111111111112",
+      "Inclinometer": 2
+    },
+    {
+      "time": "01:17",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.458333333333336",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:18",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.50980392156863",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:19",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.80434782608695",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:20",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.41666666666666",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:21",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.30612244897959",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:22",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.707317073170735",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:23",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.41304347826087",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:24",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.84444444444444",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:25",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.13333333333333",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:26",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.56521739130435",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:27",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.7948717948718",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:28",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.9",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:29",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.638888888888886",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:30",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.78260869565217",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:31",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.50980392156863",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:32",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.81578947368421",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:33",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.92307692307692",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:34",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.0",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:35",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.94444444444444",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:36",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.93023255813954",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:37",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.11111111111112",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:38",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.369565217391305",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:39",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.08510638297872",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:40",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.04255319148936",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:41",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.549019607843135",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:42",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.46808510638298",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:43",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.19565217391305",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:44",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "48.72222222222222",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:45",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "48.97674418604651",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:46",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.5",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:47",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.1219512195122",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:48",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.10526315789474",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:49",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.525",
+      "Inclinometer": 0
+    },
+    {
+      "time": "01:50",
+      "Activity": 0,
+      "Steps": 14,
+      "HR": "67.53488372093024",
+      "Inclinometer": 1
+    },
+    {
+      "time": "02:14",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "31.142857142857142",
+      "Inclinometer": 2
+    },
+    {
+      "time": "02:15",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.145833333333336",
+      "Inclinometer": 2
+    },
+    {
+      "time": "02:16",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.47916666666666",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:17",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.7037037037037",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:18",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "51.66666666666666",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:19",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "52.82978723404256",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:20",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "52.875",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:21",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "52.625",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:22",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "53.27450980392157",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:23",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "54.294117647058826",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:24",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "53.0625",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:25",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "54.0",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:26",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "52.79166666666666",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:27",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "53.375",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:28",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "53.92592592592592",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:29",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "53.8125",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:30",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "52.270833333333336",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:31",
+      "Activity": 0,
+      "Steps": 4,
+      "HR": "57.60416666666666",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:32",
+      "Activity": 0,
+      "Steps": 2,
+      "HR": "63.35416666666666",
+      "Inclinometer": 1
+    },
+    {
+      "time": "02:33",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "53.6078431372549",
+      "Inclinometer": 1
+    },
+    {
+      "time": "02:34",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "51.588235294117645",
+      "Inclinometer": 1
+    },
+    {
+      "time": "02:35",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "55.25",
+      "Inclinometer": 1
+    },
+    {
+      "time": "02:36",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "54.6875",
+      "Inclinometer": 3
+    },
+    {
+      "time": "02:37",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "52.96078431372549",
+      "Inclinometer": 3
+    },
+    {
+      "time": "02:38",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.58974358974359",
+      "Inclinometer": 3
+    },
+    {
+      "time": "02:39",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.775",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:40",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.142857142857146",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:41",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.21739130434783",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:42",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.0",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:43",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.0",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:44",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "47.9",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:45",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "48.53061224489796",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:46",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "47.66666666666666",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:47",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "48.43181818181818",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:48",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "48.41463414634146",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:49",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "48.63829787234042",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:50",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "48.0",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:51",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "48.23809523809524",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:52",
+      "Activity": 0,
+      "Steps": 4,
+      "HR": "53.869565217391305",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:53",
+      "Activity": 0,
+      "Steps": 3,
+      "HR": "64.08333333333333",
+      "Inclinometer": 3
+    },
+    {
+      "time": "02:54",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "47.41666666666666",
+      "Inclinometer": 3
+    },
+    {
+      "time": "02:55",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "47.875",
+      "Inclinometer": 3
+    },
+    {
+      "time": "02:56",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "47.44444444444444",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:57",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "48.25",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:58",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "47.85416666666666",
+      "Inclinometer": 0
+    },
+    {
+      "time": "02:59",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "46.72916666666666",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:00",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "47.625",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:01",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "48.294117647058826",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:02",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "47.6078431372549",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:03",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "48.0",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:04",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "47.125",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:05",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "47.85416666666666",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:06",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "47.5625",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:07",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "47.7037037037037",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:08",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "47.8125",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:09",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "47.458333333333336",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:10",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "46.60416666666666",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:11",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "47.04166666666666",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:12",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "47.94117647058823",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:13",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "48.0",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:14",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "48.1875",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:15",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "47.520833333333336",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:16",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "48.125",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:17",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "47.375",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:18",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "47.55555555555556",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:19",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "48.04166666666666",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:20",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "48.54166666666666",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:21",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "48.79166666666666",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:22",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "48.75",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:23",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.0",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:24",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "48.66666666666666",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:25",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "48.708333333333336",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:26",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "49.16666666666666",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:27",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "48.6875",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:28",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "48.333333333333336",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:29",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "48.92592592592592",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:30",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "48.8125",
+      "Inclinometer": 0
+    },
+    {
+      "time": "03:31",
+      "Activity": 0,
+      "Steps": 3,
+      "HR": "60.3125",
+      "Inclinometer": 2
+    },
+    {
+      "time": "03:32",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "50.765957446808514",
+      "Inclinometer": 2
+    },
+    {
+      "time": "03:33",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "48.4375",
+      "Inclinometer": 2
+    },
+    {
+      "time": "03:34",
+      "Activity": 0,
+      "Steps": 0,
+      "HR": "48.92156862745098",
+      "Inclinometer": 2
+    },
+    {
+      "time": "03:35",
+      "Activity": 12,
+      "Steps": 7,
+      "HR": "63.575",
+      "Inclinometer": 2
+    },
+    {
+      "time": "03:36",
+      "Activity": 12,
+      "Steps": 16,
+      "HR": "97.08333333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "03:37",
+      "Activity": 12,
+      "Steps": 5,
+      "HR": "93.75",
+      "Inclinometer": 2
+    },
+    {
+      "time": "03:38",
+      "Activity": 12,
+      "Steps": 6,
+      "HR": "86.5625",
+      "Inclinometer": 2
+    },
+    {
+      "time": "03:39",
+      "Activity": 12,
+      "Steps": 11,
+      "HR": "84.39583333333333",
+      "Inclinometer": 1
+    },
+    {
+      "time": "03:40",
+      "Activity": 12,
+      "Steps": 1,
+      "HR": "90.83333333333331",
+      "Inclinometer": 2
+    },
+    {
+      "time": "03:41",
+      "Activity": 12,
+      "Steps": 3,
+      "HR": "83.52083333333333",
+      "Inclinometer": 2
+    },
+    {
+      "time": "03:42",
+      "Activity": 12,
+      "Steps": 3,
+      "HR": "82.75",
+      "Inclinometer": 2
+    },
+    {
+      "time": "03:43",
+      "Activity": 12,
+      "Steps": 3,
+      "HR": "83.29166666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "03:44",
+      "Activity": 12,
+      "Steps": 3,
+      "HR": "89.35416666666667",
+      "Inclinometer": 2
+    },
+    {
+      "time": "03:45",
+      "Activity": 12,
+      "Steps": 5,
+      "HR": "86.23529411764706",
+      "Inclinometer": 2
+    },
+    {
+      "time": "08:55",
+      "Activity": 3,
+      "Steps": 2,
+      "HR": "69.81132075471699",
+      "Inclinometer": 2
+    },
+    {
+      "time": "08:56",
+      "Activity": 3,
+      "Steps": 20,
+      "HR": "77.46666666666667",
+      "Inclinometer": 1
+    },
+    {
+      "time": "08:57",
+      "Activity": 3,
+      "Steps": 41,
+      "HR": "104.25",
+      "Inclinometer": 1
+    },
+    {
+      "time": "08:58",
+      "Activity": 3,
+      "Steps": 63,
+      "HR": "102.52083333333331",
+      "Inclinometer": 1
+    },
+    {
+      "time": "08:59",
+      "Activity": 3,
+      "Steps": 40,
+      "HR": "91.1219512195122",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:00",
+      "Activity": 3,
+      "Steps": 40,
+      "HR": "93.72",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:01",
+      "Activity": 3,
+      "Steps": 50,
+      "HR": "97.34615384615384",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:02",
+      "Activity": 3,
+      "Steps": 25,
+      "HR": "95.6",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:04",
+      "Activity": 3,
+      "Steps": 37,
+      "HR": "99.3529411764706",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:05",
+      "Activity": 3,
+      "Steps": 9,
+      "HR": "86.43589743589743",
+      "Inclinometer": 3
+    },
+    {
+      "time": "09:06",
+      "Activity": 3,
+      "Steps": 43,
+      "HR": "84.875",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:07",
+      "Activity": 3,
+      "Steps": 80,
+      "HR": "95.10416666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:08",
+      "Activity": 3,
+      "Steps": 48,
+      "HR": "94.41666666666669",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:09",
+      "Activity": 3,
+      "Steps": 64,
+      "HR": "94.26",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:10",
+      "Activity": 3,
+      "Steps": 50,
+      "HR": "96.75",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:11",
+      "Activity": 3,
+      "Steps": 52,
+      "HR": "112.0625",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:12",
+      "Activity": 3,
+      "Steps": 25,
+      "HR": "94.25",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:13",
+      "Activity": 3,
+      "Steps": 9,
+      "HR": "100.47619047619048",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:14",
+      "Activity": 3,
+      "Steps": 24,
+      "HR": "84.02325581395348",
+      "Inclinometer": 1
+    },
+    {
+      "time": "09:15",
+      "Activity": 3,
+      "Steps": 4,
+      "HR": "80.63461538461539",
+      "Inclinometer": 2
+    }
+  ]
+}
