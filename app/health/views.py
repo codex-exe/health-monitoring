@@ -19,7 +19,7 @@ def create(request):
         weight({user}, {weight}).
         height({user}, {height}).
         """
-        save_kb(kb, f'health/database/{user}_kb.pl')
+        save_kb(kb, f'health/knowledge_bases/{user}_kb.pl')
         
         return JsonResponse({"message": f"Welcome {user}!"})
     else:
